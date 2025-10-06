@@ -1,0 +1,2279 @@
+{
+  "version": "1.0",
+  "lastUpdated": 1759470210350,
+  "workingDirectory": "/mnt/c/dev/mux",
+  "files": [
+    {
+      "path": ".env.example",
+      "firstSeen": 1759430827524,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759407182862,
+      "lastUpdated": 1759430827524
+    },
+    {
+      "path": ".gitignore",
+      "firstSeen": 1759430827526,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759405987430,
+      "lastUpdated": 1759430827526
+    },
+    {
+      "path": "README.md",
+      "firstSeen": 1759430827526,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759407165527,
+      "lastUpdated": 1759430827526
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T07-59-00-948Z_IMG_5402.png.analysis.txt",
+      "firstSeen": 1759430827530,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759404930052,
+      "lastUpdated": 1759430827530
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T07-59-44-318Z_a6iqha.jpg.analysis.txt",
+      "firstSeen": 1759430827533,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759404953139,
+      "lastUpdated": 1759430827533
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T07-59-56-565Z_AJfQ9KSruhVdDfws4ZNC085ZvMc1Mr3AH8Y9RoL2TYgDtmmNEumikVui6Jp2b0KOFWzT-4b9PEG1qNxI6ghPcy_HHi_Pt1WDFpaIuqDlzoIWqWb7RzxWLi-s7djhxQ8jT4hu0BOQ5lT2vmi7c_wRXq12SEnBCHfmC4MiFs8FWNFxpLOIYhIwVAs1024.png.analysis.txt",
+      "firstSeen": 1759430827535,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759404967368,
+      "lastUpdated": 1759430827535
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-00-01-622Z_AJfQ9KR_Hc8d136kl-uhUj89_Segr8t7A26yvHw4KC3P_X91EsXqnchiBDgoFVyYFKUWlDwth8mw2DQpHnkJc3Nkrb6nh1f-hhyVCSQa0vzFqjgeB_SPin4ar7MQOMnl6TN86yX_b3_7kBkqYrEz6YOzZ64RZmdNzcKzBWHepnjgWX69UTxos1024.png.analysis.txt",
+      "firstSeen": 1759430827538,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759404967371,
+      "lastUpdated": 1759430827538
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-00-12-164Z_Gemini_Generated_Image_1d6tce1d6tce1d6t2.png.analysis.txt",
+      "firstSeen": 1759430827541,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759404983026,
+      "lastUpdated": 1759430827541
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-00-16-081Z_Gemini_Generated_Image_1d6tce1d6tce1d6t.png.analysis.txt",
+      "firstSeen": 1759430827543,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759405001874,
+      "lastUpdated": 1759430827543
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-13-43-617Z_37cd34ea_548263440_2286180018509177_4727561129033822035_n.png.analysis.txt",
+      "firstSeen": 1759430827547,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759405592596,
+      "lastUpdated": 1759430827547
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-13-44-266Z_d78f4715_image.png.analysis.txt",
+      "firstSeen": 1759430827550,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759405602409,
+      "lastUpdated": 1759430827550
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-13-50-131Z_ac16a3a3_image.png.analysis.txt",
+      "firstSeen": 1759430827553,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759405602407,
+      "lastUpdated": 1759430827553
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-13-58-224Z_8866534d_G1IKh_VXgAAh4kR.png.analysis.txt",
+      "firstSeen": 1759430827555,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759405626057,
+      "lastUpdated": 1759430827555
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-14-01-719Z_2d11ab83_a6iqha.jpg.analysis.txt",
+      "firstSeen": 1759430827558,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759405640173,
+      "lastUpdated": 1759430827558
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-14-06-327Z_ddb4126d_url.jpg.analysis.txt",
+      "firstSeen": 1759430827561,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759405650147,
+      "lastUpdated": 1759430827561
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-14-35-213Z_b38f3f2c_pa2.png.analysis.txt",
+      "firstSeen": 1759430827564,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759405747477,
+      "lastUpdated": 1759430827564
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-14-35-896Z_21cd96f6_image.png.analysis.txt",
+      "firstSeen": 1759430827567,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759405766360,
+      "lastUpdated": 1759430827567
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-14-36-703Z_ec764b5a_SG.png.analysis.txt",
+      "firstSeen": 1759430827570,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759405766340,
+      "lastUpdated": 1759430827570
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-14-37-330Z_e60a6b63_image.png.analysis.txt",
+      "firstSeen": 1759430827573,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759405766357,
+      "lastUpdated": 1759430827573
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-14-38-092Z_5762a338_rn_image_picker_lib_temp_5fb14987-6ada-4210-8efb-3a29b752a6f6.jpg.analysis.txt",
+      "firstSeen": 1759430827577,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759405766335,
+      "lastUpdated": 1759430827577
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-14-43-868Z_ee6ca316_image.png.analysis.txt",
+      "firstSeen": 1759430827582,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759405795376,
+      "lastUpdated": 1759430827582
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-14-47-245Z_615c5bc4_G1AWIOebIAEoPzH.png.analysis.txt",
+      "firstSeen": 1759430827586,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759405795378,
+      "lastUpdated": 1759430827586
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-14-55-992Z_3ea44a6a_image.png.analysis.txt",
+      "firstSeen": 1759430827589,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759405825401,
+      "lastUpdated": 1759430827589
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-15-08-271Z_1f445e44_4zajkr.jpg.analysis.txt",
+      "firstSeen": 1759430827591,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759406905524,
+      "lastUpdated": 1759430827591
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-15-10-575Z_f40e1130_7ddk18.jpg.analysis.txt",
+      "firstSeen": 1759430827594,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759405876563,
+      "lastUpdated": 1759430827594
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-15-14-796Z_761183e9_image.png.analysis.txt",
+      "firstSeen": 1759430827597,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759405895550,
+      "lastUpdated": 1759430827597
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-15-17-212Z_27e66be3_271_-_RnhnIN3.png.analysis.txt",
+      "firstSeen": 1759430827601,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759405895555,
+      "lastUpdated": 1759430827601
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-15-21-974Z_d9a6c935_grok_image_x5l84d7.jpg.analysis.txt",
+      "firstSeen": 1759430827604,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759405917411,
+      "lastUpdated": 1759430827604
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-15-26-093Z_062f53e3_the-final-definitive-beyond-the-ice-wall-3-0-v0-m4cc9xdla28b1.webp",
+      "firstSeen": 1759430827607,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759392925250,
+      "lastUpdated": 1759430827607
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-15-26-093Z_062f53e3_the-final-definitive-beyond-the-ice-wall-3-0-v0-m4cc9xdla28b1.webp.analysis.txt",
+      "firstSeen": 1759430827610,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759405927607,
+      "lastUpdated": 1759430827610
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-15-26-791Z_cee054b0_Messenger_creation_4031BB64-B77F-40AE-94E1-83094FB91802.jpg.analysis.txt",
+      "firstSeen": 1759430827613,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759405927608,
+      "lastUpdated": 1759430827613
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-15-30-995Z_1113877f_images-1.jpg.analysis.txt",
+      "firstSeen": 1759430827616,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759405941930,
+      "lastUpdated": 1759430827616
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-15-31-794Z_d7f8415a_images.jpg.analysis.txt",
+      "firstSeen": 1759430827619,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759405941933,
+      "lastUpdated": 1759430827619
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-15-35-422Z_83561254_unnamed-1.png.analysis.txt",
+      "firstSeen": 1759430827622,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759405941934,
+      "lastUpdated": 1759430827622
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-15-36-079Z_ceedc118_unnamed.png.analysis.txt",
+      "firstSeen": 1759430827625,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759405954630,
+      "lastUpdated": 1759430827625
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-15-37-465Z_5958fb22_1024px-Yamaha_DX7_synthesizer_-_combined_image_with_diagonal_and_top_views.png.analysis.txt",
+      "firstSeen": 1759430827627,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759405954638,
+      "lastUpdated": 1759430827627
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-15-38-898Z_256b2eec_MV5BZGIxNzU1ZGUtMGQ2Yi00NWJiLWE2NGUtYjZhYzdkMTE2ZDZjXkEyXkFqcGc.png.analysis.txt",
+      "firstSeen": 1759430827630,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759405954636,
+      "lastUpdated": 1759430827630
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-15-39-739Z_4bee51a6_images.png.analysis.txt",
+      "firstSeen": 1759430827633,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759405964515,
+      "lastUpdated": 1759430827633
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-15-41-149Z_cae1ed5a_zac-efron-prada-ad.png.analysis.txt",
+      "firstSeen": 1759430827636,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759405964520,
+      "lastUpdated": 1759430827636
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-15-42-942Z_32bfb4c5_image.png.analysis.txt",
+      "firstSeen": 1759430827639,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759405964522,
+      "lastUpdated": 1759430827639
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-15-43-601Z_ec57b227_image.png.analysis.txt",
+      "firstSeen": 1759430827642,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759407001174,
+      "lastUpdated": 1759430827642
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-15-44-258Z_daaffb13_image.png.analysis.txt",
+      "firstSeen": 1759430827645,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759407001175,
+      "lastUpdated": 1759430827645
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-15-47-299Z_45fac113_Screenshot_20250913_003316.jpg.analysis.txt",
+      "firstSeen": 1759430827649,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759405990880,
+      "lastUpdated": 1759430827649
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-15-48-102Z_c23f682a_image.png.analysis.txt",
+      "firstSeen": 1759430827652,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759405990876,
+      "lastUpdated": 1759430827652
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-15-50-259Z_ab40f3df_DC2F1039-8344-4A2C-9E35-29646A01F566.png.analysis.txt",
+      "firstSeen": 1759430827654,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759405990881,
+      "lastUpdated": 1759430827654
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-15-51-020Z_3cfcee78_AJfQ9KSUVvVJxf8XNiSqSNQjU4ERyaZCGOMx56ZSyRTYNmJpjd52d7iWomtPMh9RDwartptfL_DMWu1UAyV07uFgNkmZJLIm.png.analysis.txt",
+      "firstSeen": 1759430827657,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759406003094,
+      "lastUpdated": 1759430827657
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-15-51-682Z_cacafdb4_AJfQ9KT6mdJVOw3nf2dfiDcfJInW8EOMxg0cKAcTGY-oOiFYJ7fM8TYH2KKHcTDzKlSR1GH1vLso4zs9U7uyFLsOBZfHaq-V.png.analysis.txt",
+      "firstSeen": 1759430827659,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759406003102,
+      "lastUpdated": 1759430827659
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-15-52-350Z_c8436d16_AJfQ9KSJJh911_3IP7ZttIQw4de0NiRDY_zGY_tXU9BOaBS4jPnMLuOII4KQohP8yvbK-mazRC2wj8q-zPeHIb8U2rEwuHLs.png.analysis.txt",
+      "firstSeen": 1759430827662,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759406003098,
+      "lastUpdated": 1759430827662
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-15-54-313Z_34c3692a_AJfQ9KRmr6sksLZ4s3eF0Qe7Ei4uUkbtbxWd0eH6vMy9Pwkl7aPArdL85LKDl2zQ3cUaRJd03Bm-xQkqXVxaiBB8AjgkTT18.png.analysis.txt",
+      "firstSeen": 1759430827665,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759406014399,
+      "lastUpdated": 1759430827665
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-15-54-984Z_c9fab9a4_AJfQ9KRPN-tFqgMPATSx-RRW5XF6N-ysVoBcsyTHQ76-azkU4wd4FvYYfGnLKnp611K1tBmQfThcZ8oRzJ-uqQ35t3oj2Z4e.png.analysis.txt",
+      "firstSeen": 1759430827667,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759406014400,
+      "lastUpdated": 1759430827667
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-15-57-944Z_227f6fc0_roland-juno-x-synthesizer-v0-2q8u7y2wauv81.png.analysis.txt",
+      "firstSeen": 1759430827670,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759406022291,
+      "lastUpdated": 1759430827670
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-15-58-602Z_52b18222_images.png.analysis.txt",
+      "firstSeen": 1759430827672,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759406022296,
+      "lastUpdated": 1759430827672
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-15-59-343Z_a745adaf_Image_BE_0722-AAA_DEEPMIND-12_Top_XL.png.analysis.txt",
+      "firstSeen": 1759430827675,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759406022294,
+      "lastUpdated": 1759430827675
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-15-59-949Z_a940099b_images.png.analysis.txt",
+      "firstSeen": 1759430827677,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759406022301,
+      "lastUpdated": 1759430827677
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-16-00-673Z_0c01c7cc_maxresdefault.png.analysis.txt",
+      "firstSeen": 1759430827680,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759406022304,
+      "lastUpdated": 1759430827680
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-16-01-343Z_9210e1fb_image.png.analysis.txt",
+      "firstSeen": 1759430827683,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759406031676,
+      "lastUpdated": 1759430827683
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-16-02-087Z_05918c32_61it1sE14UL.png.analysis.txt",
+      "firstSeen": 1759430827685,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759406031678,
+      "lastUpdated": 1759430827685
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-16-02-843Z_fe1fbae5_shk9qigmzkj6m2qslc5t.png.analysis.txt",
+      "firstSeen": 1759430827688,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759406031675,
+      "lastUpdated": 1759430827688
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-16-03-507Z_51e84bfd_novation_supernova.png.analysis.txt",
+      "firstSeen": 1759430827690,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759406031682,
+      "lastUpdated": 1759430827690
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-16-04-192Z_1b6680c2_nova.png.analysis.txt",
+      "firstSeen": 1759430827693,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759406031683,
+      "lastUpdated": 1759430827693
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-16-04-825Z_472db295_dff6b275d71b865b8c057ad96e18f886.png.analysis.txt",
+      "firstSeen": 1759430827695,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759406040589,
+      "lastUpdated": 1759430827695
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-16-05-473Z_9d9dc9df_accessvirusc1-aCgfjueL3USqPwHNL23a9oh774I74Gwn.png.analysis.txt",
+      "firstSeen": 1759430827699,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759406040591,
+      "lastUpdated": 1759430827699
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-16-16-242Z_21a5e158_image.png.analysis.txt",
+      "firstSeen": 1759430827702,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759406050021,
+      "lastUpdated": 1759430827702
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-16-17-519Z_faa75acb_image.png.analysis.txt",
+      "firstSeen": 1759430827705,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759406050019,
+      "lastUpdated": 1759430827705
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-16-21-575Z_aa563e28_image.png.analysis.txt",
+      "firstSeen": 1759430827707,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759406074547,
+      "lastUpdated": 1759430827707
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-16-22-294Z_ce72a089_image.png.analysis.txt",
+      "firstSeen": 1759430827710,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759406074551,
+      "lastUpdated": 1759430827710
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-16-23-058Z_f61d1f35_image.png.analysis.txt",
+      "firstSeen": 1759430827713,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759406074557,
+      "lastUpdated": 1759430827713
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-16-23-824Z_d43bcf80_F74BBAD6-3C4E-4822-9997-7587B31DB1EA.png.analysis.txt",
+      "firstSeen": 1759430827717,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759406074558,
+      "lastUpdated": 1759430827717
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-16-25-268Z_7181f3ba_image.png.analysis.txt",
+      "firstSeen": 1759430827719,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759406086839,
+      "lastUpdated": 1759430827719
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-16-27-230Z_df2c0ef6_image.png.analysis.txt",
+      "firstSeen": 1759430827722,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759406086830,
+      "lastUpdated": 1759430827722
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-16-29-167Z_f7bd876c_0F3C917C-46B6-4C75-820A-C33C77F7B310.png.analysis.txt",
+      "firstSeen": 1759430827725,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759406086830,
+      "lastUpdated": 1759430827725
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-16-29-845Z_248e3c79_F185A5FC-4FC5-4754-86DD-4A33AF992DBE.png.analysis.txt",
+      "firstSeen": 1759430827728,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759406086834,
+      "lastUpdated": 1759430827728
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-16-30-540Z_b93a76c2_3AE2F3EC-9E40-4B56-A434-BFF85682CE5A.png.analysis.txt",
+      "firstSeen": 1759430827732,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759406086841,
+      "lastUpdated": 1759430827732
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-16-33-521Z_3a4a7bda_image.png.analysis.txt",
+      "firstSeen": 1759430827734,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759406099322,
+      "lastUpdated": 1759430827734
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-16-34-486Z_9bec63e0_image.png.analysis.txt",
+      "firstSeen": 1759430827737,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759407087799,
+      "lastUpdated": 1759430827737
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-16-35-108Z_da8181b6_8C14F6AA-3E3E-43CF-A42C-D9ABD7DC7C1E.jpg.analysis.txt",
+      "firstSeen": 1759430827739,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759406099319,
+      "lastUpdated": 1759430827739
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-16-36-663Z_39121156_536268055_2269719710155208_9038937315745790268_n.png.analysis.txt",
+      "firstSeen": 1759430827742,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759406126310,
+      "lastUpdated": 1759430827742
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-16-39-732Z_e44a5236_image.png.analysis.txt",
+      "firstSeen": 1759430827745,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759407087800,
+      "lastUpdated": 1759430827745
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-16-42-184Z_97689970_GXhR6aaXEAYrq0p.jpg.analysis.txt",
+      "firstSeen": 1759430827748,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759406141609,
+      "lastUpdated": 1759430827748
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-16-45-787Z_0b2a9b52_412932014_2423933711141887_9086843343732378844_n.jpg.analysis.txt",
+      "firstSeen": 1759430827750,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759407099795,
+      "lastUpdated": 1759430827750
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-16-52-845Z_b4512e81_image.png.analysis.txt",
+      "firstSeen": 1759430827753,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759406169370,
+      "lastUpdated": 1759430827753
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-16-54-492Z_b6c42222_Screenshot_20251002_004214.jpg.analysis.txt",
+      "firstSeen": 1759430827756,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759407127344,
+      "lastUpdated": 1759430827756
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-16-55-176Z_907e9bc8_122578522_bog2.png.analysis.txt",
+      "firstSeen": 1759430827758,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759406169368,
+      "lastUpdated": 1759430827758
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-16-55-970Z_aa3845ea_G2Jmw9laIAAQ8aM.png.analysis.txt",
+      "firstSeen": 1759430827761,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759406182335,
+      "lastUpdated": 1759430827761
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-16-58-917Z_cd67aa4b_image.png.analysis.txt",
+      "firstSeen": 1759430827764,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759406182330,
+      "lastUpdated": 1759430827764
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-16-59-618Z_b4cda011_555919224_122264771702229449_5963795684243910801_n.png.analysis.txt",
+      "firstSeen": 1759430827767,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759406182333,
+      "lastUpdated": 1759430827767
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-17-01-756Z_d4f72a12_image.png.analysis.txt",
+      "firstSeen": 1759430827769,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759406193841,
+      "lastUpdated": 1759430827769
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-17-06-391Z_475b5645_team13.png.analysis.txt",
+      "firstSeen": 1759430827772,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759406202203,
+      "lastUpdated": 1759430827772
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-17-07-065Z_e1675812_team5.png.analysis.txt",
+      "firstSeen": 1759430827775,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759406202205,
+      "lastUpdated": 1759430827775
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-17-07-831Z_9e3be515_team-1.png.analysis.txt",
+      "firstSeen": 1759430827778,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759407148782,
+      "lastUpdated": 1759430827778
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-17-08-542Z_166cc85c_team3.png.analysis.txt",
+      "firstSeen": 1759430827782,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759407148781,
+      "lastUpdated": 1759430827782
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-17-10-565Z_e6a73450_F_Orlz7WwAAbWmA.png.analysis.txt",
+      "firstSeen": 1759430827785,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759407163448,
+      "lastUpdated": 1759430827785
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-17-11-675Z_362f3423_image25.png.analysis.txt",
+      "firstSeen": 1759430827788,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759407163447,
+      "lastUpdated": 1759430827788
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-17-12-896Z_a246a3b2_image_20.webp",
+      "firstSeen": 1759430827791,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759393032148,
+      "lastUpdated": 1759430827791
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-17-12-896Z_a246a3b2_image_20.webp.analysis.txt",
+      "firstSeen": 1759430827794,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759407163443,
+      "lastUpdated": 1759430827794
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-17-29-462Z_11caaf76_Screenshot_20250926-210552_TikTok.jpg.analysis.txt",
+      "firstSeen": 1759430827796,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759407179199,
+      "lastUpdated": 1759430827796
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-20-03-532Z_361699ca_99A70FF0-719B-40CE-8036-580BF314D5B4.png.analysis.txt",
+      "firstSeen": 1759430827799,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759407229366,
+      "lastUpdated": 1759430827799
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-20-20-035Z_7984b332_image.png.analysis.txt",
+      "firstSeen": 1759430827802,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759407256629,
+      "lastUpdated": 1759430827802
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-20-22-495Z_5732a3d4_AJfQ9KSUca8kdMo-zOf2w_RfSknPc129tLSB9OUZxm1qoEp7rUsMX_v4cMr964tm7hLR_9UMgFAfHZqbvQ4zuecNXq4uVA4x.png.analysis.txt",
+      "firstSeen": 1759430827805,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759407256628,
+      "lastUpdated": 1759430827805
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-20-26-899Z_841d731f_D638C184-5AFD-4388-9CE1-9A1416541CFA.png.analysis.txt",
+      "firstSeen": 1759430827807,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759407268928,
+      "lastUpdated": 1759430827807
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-20-27-601Z_9a02ed6f_CAB50HOC021D0101.webp",
+      "firstSeen": 1759430827810,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759393225360,
+      "lastUpdated": 1759430827810
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-20-27-601Z_9a02ed6f_CAB50HOC021D0101.webp.analysis.txt",
+      "firstSeen": 1759430827813,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759407268952,
+      "lastUpdated": 1759430827813
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-20-28-414Z_ed70cf2f_IMG_20250927_220618544_HDR.jpg.analysis.txt",
+      "firstSeen": 1759430827816,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759407268964,
+      "lastUpdated": 1759430827816
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-20-36-628Z_2f9b4e52_20171216_175325.png.analysis.txt",
+      "firstSeen": 1759430827819,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759407297804,
+      "lastUpdated": 1759430827819
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-20-37-472Z_ccf02827_i-found-this-painting-of-keanu-reeves-in-mexico-city-v0-y55fbfseuvd81.png.analysis.txt",
+      "firstSeen": 1759430827822,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759407297804,
+      "lastUpdated": 1759430827822
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-20-41-425Z_9ac8dc13_Screenshot_20250925_124629_Google.jpg.analysis.txt",
+      "firstSeen": 1759430827825,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759407310140,
+      "lastUpdated": 1759430827825
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-20-43-036Z_97af8e72_Screenshot_20250925_124338_Facebook.jpg.analysis.txt",
+      "firstSeen": 1759430827828,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759407310142,
+      "lastUpdated": 1759430827828
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-20-44-479Z_61ef58b0_images.png.analysis.txt",
+      "firstSeen": 1759430827831,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759407326299,
+      "lastUpdated": 1759430827831
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-20-45-304Z_9386a3d0_the_loop_green_zones.png.analysis.txt",
+      "firstSeen": 1759430827833,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759407326298,
+      "lastUpdated": 1759430827833
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-20-54-298Z_8760e645_maxresdefault.png.analysis.txt",
+      "firstSeen": 1759430827836,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759407349553,
+      "lastUpdated": 1759430827836
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-21-01-935Z_1651514e_1427257945266.png.analysis.txt",
+      "firstSeen": 1759430827838,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759407374595,
+      "lastUpdated": 1759430827838
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-21-07-707Z_8024016b_EE26BC96-95D1-47FD-8E1C-CE689975979B.png.analysis.txt",
+      "firstSeen": 1759430827841,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759407388539,
+      "lastUpdated": 1759430827841
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-21-13-608Z_37cd34ea_548263440_2286180018509177_4727561129033822035_n.png.analysis.txt",
+      "firstSeen": 1759430827844,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759407409210,
+      "lastUpdated": 1759430827844
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-21-14-235Z_d78f4715_image.png.analysis.txt",
+      "firstSeen": 1759430827847,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759407409209,
+      "lastUpdated": 1759430827847
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-21-18-813Z_ac16a3a3_image.png.analysis.txt",
+      "firstSeen": 1759430827851,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759407409205,
+      "lastUpdated": 1759430827851
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-21-33-088Z_2d11ab83_a6iqha.jpg.analysis.txt",
+      "firstSeen": 1759430827854,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759407445401,
+      "lastUpdated": 1759430827854
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-21-36-773Z_ddb4126d_url.jpg.analysis.txt",
+      "firstSeen": 1759430827856,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759407474802,
+      "lastUpdated": 1759430827856
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-23-29-950Z_361699ca_99A70FF0-719B-40CE-8036-580BF314D5B4.png.analysis.txt",
+      "firstSeen": 1759430827859,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759407567707,
+      "lastUpdated": 1759430827859
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-23-52-598Z_841d731f_D638C184-5AFD-4388-9CE1-9A1416541CFA.png.analysis.txt",
+      "firstSeen": 1759430827862,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759407624944,
+      "lastUpdated": 1759430827862
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-23-53-260Z_9a02ed6f_CAB50HOC021D0101.webp",
+      "firstSeen": 1759430827867,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759393430534,
+      "lastUpdated": 1759430827867
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-23-53-260Z_9a02ed6f_CAB50HOC021D0101.webp.analysis.txt",
+      "firstSeen": 1759430827870,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759407624942,
+      "lastUpdated": 1759430827870
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-23-53-983Z_ed70cf2f_IMG_20250927_220618544_HDR.jpg.analysis.txt",
+      "firstSeen": 1759430827872,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759407639068,
+      "lastUpdated": 1759430827872
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-24-00-530Z_2f9b4e52_20171216_175325.png.analysis.txt",
+      "firstSeen": 1759430827875,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759407661229,
+      "lastUpdated": 1759430827875
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-24-01-333Z_ccf02827_i-found-this-painting-of-keanu-reeves-in-mexico-city-v0-y55fbfseuvd81.png.analysis.txt",
+      "firstSeen": 1759430827878,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759407677998,
+      "lastUpdated": 1759430827878
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-24-05-005Z_9ac8dc13_Screenshot_20250925_124629_Google.jpg.analysis.txt",
+      "firstSeen": 1759430827881,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759407678001,
+      "lastUpdated": 1759430827881
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-24-06-561Z_97af8e72_Screenshot_20250925_124338_Facebook.jpg.analysis.txt",
+      "firstSeen": 1759430827884,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759407678002,
+      "lastUpdated": 1759430827884
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-24-07-270Z_984d9b46_FB_IMG_1758826784510.jpg.analysis.txt",
+      "firstSeen": 1759430827886,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759407693994,
+      "lastUpdated": 1759430827886
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-24-08-019Z_61ef58b0_images.png.analysis.txt",
+      "firstSeen": 1759430827889,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759407693991,
+      "lastUpdated": 1759430827889
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-24-08-946Z_9386a3d0_the_loop_green_zones.png.analysis.txt",
+      "firstSeen": 1759430827892,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759407693999,
+      "lastUpdated": 1759430827892
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-24-14-183Z_8760e645_maxresdefault.png.analysis.txt",
+      "firstSeen": 1759430827894,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759407712056,
+      "lastUpdated": 1759430827894
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-24-24-944Z_1651514e_1427257945266.png.analysis.txt",
+      "firstSeen": 1759430827897,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759407730891,
+      "lastUpdated": 1759430827897
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-24-29-985Z_8024016b_EE26BC96-95D1-47FD-8E1C-CE689975979B.png.analysis.txt",
+      "firstSeen": 1759430827900,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759407773859,
+      "lastUpdated": 1759430827900
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-24-36-097Z_37cd34ea_548263440_2286180018509177_4727561129033822035_n.png.analysis.txt",
+      "firstSeen": 1759430827903,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759407785299,
+      "lastUpdated": 1759430827903
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-24-36-749Z_d78f4715_image.png.analysis.txt",
+      "firstSeen": 1759430827906,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759407785297,
+      "lastUpdated": 1759430827906
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-24-39-883Z_ac16a3a3_image.png.analysis.txt",
+      "firstSeen": 1759430827909,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759407785293,
+      "lastUpdated": 1759430827909
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-24-47-699Z_8866534d_G1IKh_VXgAAh4kR.png.analysis.txt",
+      "firstSeen": 1759430827912,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759407815441,
+      "lastUpdated": 1759430827912
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-24-49-104Z_0b51ab39_Screenshot_20250918_142231.jpg.analysis.txt",
+      "firstSeen": 1759430827917,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759407827033,
+      "lastUpdated": 1759430827917
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-24-51-260Z_2d11ab83_a6iqha.jpg.analysis.txt",
+      "firstSeen": 1759430827921,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759407827035,
+      "lastUpdated": 1759430827921
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-24-58-162Z_ddb4126d_url.jpg.analysis.txt",
+      "firstSeen": 1759430827925,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759407836914,
+      "lastUpdated": 1759430827925
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-25-24-172Z_b38f3f2c_pa2.png.analysis.txt",
+      "firstSeen": 1759430827928,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759407934757,
+      "lastUpdated": 1759430827928
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-25-24-948Z_21cd96f6_image.png.analysis.txt",
+      "firstSeen": 1759430827931,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759407934732,
+      "lastUpdated": 1759430827931
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-25-25-812Z_ec764b5a_SG.png.analysis.txt",
+      "firstSeen": 1759430827934,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759407934754,
+      "lastUpdated": 1759430827934
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-25-26-447Z_e60a6b63_image.png.analysis.txt",
+      "firstSeen": 1759430827938,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759407934738,
+      "lastUpdated": 1759430827938
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-25-34-620Z_7c025098_image.png.analysis.txt",
+      "firstSeen": 1759430827941,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759407964662,
+      "lastUpdated": 1759430827941
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-25-36-912Z_ee6ca316_image.png.analysis.txt",
+      "firstSeen": 1759430827944,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759407964661,
+      "lastUpdated": 1759430827944
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-25-40-352Z_615c5bc4_G1AWIOebIAEoPzH.png.analysis.txt",
+      "firstSeen": 1759430827948,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759407996040,
+      "lastUpdated": 1759430827948
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-26-01-162Z_7cf5a432_7p53o7.jpg.analysis.txt",
+      "firstSeen": 1759430827952,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759408066468,
+      "lastUpdated": 1759430827952
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-26-09-277Z_27e66be3_271_-_RnhnIN3.png.analysis.txt",
+      "firstSeen": 1759430827955,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759408087165,
+      "lastUpdated": 1759430827955
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-26-14-209Z_d9a6c935_grok_image_x5l84d7.jpg.analysis.txt",
+      "firstSeen": 1759430827959,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759408109865,
+      "lastUpdated": 1759430827959
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-26-17-266Z_d9b6d181_img_1_1749035506712.jpg.analysis.txt",
+      "firstSeen": 1759430827962,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759408125143,
+      "lastUpdated": 1759430827962
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-26-17-954Z_062f53e3_the-final-definitive-beyond-the-ice-wall-3-0-v0-m4cc9xdla28b1.webp",
+      "firstSeen": 1759430827965,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759393575690,
+      "lastUpdated": 1759430827965
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-26-17-954Z_062f53e3_the-final-definitive-beyond-the-ice-wall-3-0-v0-m4cc9xdla28b1.webp.analysis.txt",
+      "firstSeen": 1759430827969,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759408125149,
+      "lastUpdated": 1759430827969
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-26-18-601Z_cee054b0_Messenger_creation_4031BB64-B77F-40AE-94E1-83094FB91802.jpg.analysis.txt",
+      "firstSeen": 1759430827972,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759408125147,
+      "lastUpdated": 1759430827972
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-26-22-836Z_1113877f_images-1.jpg.analysis.txt",
+      "firstSeen": 1759430827975,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759408137753,
+      "lastUpdated": 1759430827975
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-26-23-628Z_d7f8415a_images.jpg.analysis.txt",
+      "firstSeen": 1759430827979,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759408151027,
+      "lastUpdated": 1759430827979
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-26-26-346Z_5958fb22_1024px-Yamaha_DX7_synthesizer_-_combined_image_with_diagonal_and_top_views.png.analysis.txt",
+      "firstSeen": 1759430827983,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759408151029,
+      "lastUpdated": 1759430827983
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-26-27-988Z_256b2eec_MV5BZGIxNzU1ZGUtMGQ2Yi00NWJiLWE2NGUtYjZhYzdkMTE2ZDZjXkEyXkFqcGc.png.analysis.txt",
+      "firstSeen": 1759430827987,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759408162570,
+      "lastUpdated": 1759430827987
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-26-28-685Z_4bee51a6_images.png.analysis.txt",
+      "firstSeen": 1759430827990,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759408162564,
+      "lastUpdated": 1759430827990
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-26-30-073Z_cae1ed5a_zac-efron-prada-ad.png.analysis.txt",
+      "firstSeen": 1759430827994,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759408162568,
+      "lastUpdated": 1759430827994
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-26-32-480Z_ec57b227_image.png.analysis.txt",
+      "firstSeen": 1759430827997,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759408181722,
+      "lastUpdated": 1759430827997
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-26-33-225Z_daaffb13_image.png.analysis.txt",
+      "firstSeen": 1759430828001,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759408181724,
+      "lastUpdated": 1759430828001
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-26-36-079Z_45fac113_Screenshot_20250913_003316.jpg.analysis.txt",
+      "firstSeen": 1759430828004,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759408193742,
+      "lastUpdated": 1759430828004
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-26-36-796Z_c23f682a_image.png.analysis.txt",
+      "firstSeen": 1759430828007,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759408193743,
+      "lastUpdated": 1759430828007
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-26-39-380Z_ab40f3df_DC2F1039-8344-4A2C-9E35-29646A01F566.png.analysis.txt",
+      "firstSeen": 1759430828011,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759408209603,
+      "lastUpdated": 1759430828011
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-26-50-248Z_227f6fc0_roland-juno-x-synthesizer-v0-2q8u7y2wauv81.png.analysis.txt",
+      "firstSeen": 1759430828014,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759408236982,
+      "lastUpdated": 1759430828014
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-26-50-970Z_52b18222_images.png.analysis.txt",
+      "firstSeen": 1759430828017,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759408236985,
+      "lastUpdated": 1759430828017
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-26-51-673Z_a745adaf_Image_BE_0722-AAA_DEEPMIND-12_Top_XL.png.analysis.txt",
+      "firstSeen": 1759430828021,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759408236991,
+      "lastUpdated": 1759430828021
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-26-52-311Z_a940099b_images.png.analysis.txt",
+      "firstSeen": 1759430828025,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759408246997,
+      "lastUpdated": 1759430828025
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-26-53-012Z_0c01c7cc_maxresdefault.png.analysis.txt",
+      "firstSeen": 1759430828028,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759408246996,
+      "lastUpdated": 1759430828028
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-26-53-709Z_9210e1fb_image.png.analysis.txt",
+      "firstSeen": 1759430828032,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759408247005,
+      "lastUpdated": 1759430828032
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-26-54-434Z_05918c32_61it1sE14UL.png.analysis.txt",
+      "firstSeen": 1759430828035,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759408246998,
+      "lastUpdated": 1759430828035
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-26-55-075Z_fe1fbae5_shk9qigmzkj6m2qslc5t.png.analysis.txt",
+      "firstSeen": 1759430828039,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759408247003,
+      "lastUpdated": 1759430828039
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-26-55-727Z_51e84bfd_novation_supernova.png.analysis.txt",
+      "firstSeen": 1759430828043,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759408255239,
+      "lastUpdated": 1759430828043
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-26-56-391Z_1b6680c2_nova.png.analysis.txt",
+      "firstSeen": 1759430828047,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759408255236,
+      "lastUpdated": 1759430828047
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-26-57-071Z_472db295_dff6b275d71b865b8c057ad96e18f886.png.analysis.txt",
+      "firstSeen": 1759430828051,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759408255243,
+      "lastUpdated": 1759430828051
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-26-57-722Z_9d9dc9df_accessvirusc1-aCgfjueL3USqPwHNL23a9oh774I74Gwn.png.analysis.txt",
+      "firstSeen": 1759430828055,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759408255249,
+      "lastUpdated": 1759430828055
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-27-05-870Z_21a5e158_image.png.analysis.txt",
+      "firstSeen": 1759430828058,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759408282029,
+      "lastUpdated": 1759430828058
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-27-07-341Z_faa75acb_image.png.analysis.txt",
+      "firstSeen": 1759430828062,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759408282028,
+      "lastUpdated": 1759430828062
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-27-11-394Z_aa563e28_image.png.analysis.txt",
+      "firstSeen": 1759430828065,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759408295665,
+      "lastUpdated": 1759430828065
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-27-12-245Z_ce72a089_image.png.analysis.txt",
+      "firstSeen": 1759430828068,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759408295660,
+      "lastUpdated": 1759430828068
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-27-12-990Z_f61d1f35_image.png.analysis.txt",
+      "firstSeen": 1759430828071,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759408295662,
+      "lastUpdated": 1759430828071
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-27-19-588Z_df2c0ef6_image.png.analysis.txt",
+      "firstSeen": 1759430828074,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759408313080,
+      "lastUpdated": 1759430828074
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-27-21-726Z_f7bd876c_0F3C917C-46B6-4C75-820A-C33C77F7B310.png.analysis.txt",
+      "firstSeen": 1759430828077,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759408313078,
+      "lastUpdated": 1759430828077
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-27-22-506Z_248e3c79_F185A5FC-4FC5-4754-86DD-4A33AF992DBE.png.analysis.txt",
+      "firstSeen": 1759430828081,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759408324540,
+      "lastUpdated": 1759430828081
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-27-23-307Z_b93a76c2_3AE2F3EC-9E40-4B56-A434-BFF85682CE5A.png.analysis.txt",
+      "firstSeen": 1759430828084,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759408324538,
+      "lastUpdated": 1759430828084
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-27-26-220Z_3a4a7bda_image.png.analysis.txt",
+      "firstSeen": 1759430828087,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759408324541,
+      "lastUpdated": 1759430828087
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-27-26-944Z_9bec63e0_image.png.analysis.txt",
+      "firstSeen": 1759430828090,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759408348293,
+      "lastUpdated": 1759430828090
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-27-27-887Z_da8181b6_8C14F6AA-3E3E-43CF-A42C-D9ABD7DC7C1E.jpg.analysis.txt",
+      "firstSeen": 1759430828093,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759408348297,
+      "lastUpdated": 1759430828093
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-27-29-551Z_39121156_536268055_2269719710155208_9038937315745790268_n.png.analysis.txt",
+      "firstSeen": 1759430828096,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759408348298,
+      "lastUpdated": 1759430828096
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-27-35-564Z_97689970_GXhR6aaXEAYrq0p.jpg.analysis.txt",
+      "firstSeen": 1759430828099,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759408360396,
+      "lastUpdated": 1759430828099
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-27-37-555Z_9e2cf9ef_411671707_7128830190508682_3277477988142608677_n.jpg.analysis.txt",
+      "firstSeen": 1759430828102,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759408373133,
+      "lastUpdated": 1759430828102
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-27-41-024Z_8f5be9f2_image0.jpg.analysis.txt",
+      "firstSeen": 1759430828105,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759408388636,
+      "lastUpdated": 1759430828105
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-27-43-223Z_b4512e81_image.png.analysis.txt",
+      "firstSeen": 1759430828108,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759408388638,
+      "lastUpdated": 1759430828108
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-27-45-020Z_b6c42222_Screenshot_20251002_004214.jpg.analysis.txt",
+      "firstSeen": 1759430828113,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759408403759,
+      "lastUpdated": 1759430828113
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-27-45-756Z_907e9bc8_122578522_bog2.png.analysis.txt",
+      "firstSeen": 1759430828117,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759408403751,
+      "lastUpdated": 1759430828117
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-27-46-552Z_aa3845ea_G2Jmw9laIAAQ8aM.png.analysis.txt",
+      "firstSeen": 1759430828121,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759408403760,
+      "lastUpdated": 1759430828121
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-27-49-425Z_cd67aa4b_image.png.analysis.txt",
+      "firstSeen": 1759430828125,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759408416997,
+      "lastUpdated": 1759430828125
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-27-53-127Z_b4cda011_555919224_122264771702229449_5963795684243910801_n.png.analysis.txt",
+      "firstSeen": 1759430828130,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759408417000,
+      "lastUpdated": 1759430828130
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-27-55-335Z_d4f72a12_image.png.analysis.txt",
+      "firstSeen": 1759430828134,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759408417002,
+      "lastUpdated": 1759430828134
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-27-59-564Z_475b5645_team13.png.analysis.txt",
+      "firstSeen": 1759430828137,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759408436031,
+      "lastUpdated": 1759430828137
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-28-00-289Z_e1675812_team5.png.analysis.txt",
+      "firstSeen": 1759430828140,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759408436027,
+      "lastUpdated": 1759430828140
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-28-01-039Z_9e3be515_team-1.png.analysis.txt",
+      "firstSeen": 1759430828143,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759408436035,
+      "lastUpdated": 1759430828143
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-28-01-746Z_166cc85c_team3.png.analysis.txt",
+      "firstSeen": 1759430828146,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759408436037,
+      "lastUpdated": 1759430828146
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-28-03-840Z_e6a73450_F_Orlz7WwAAbWmA.png.analysis.txt",
+      "firstSeen": 1759430828150,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759408450061,
+      "lastUpdated": 1759430828150
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-28-05-145Z_362f3423_image25.png.analysis.txt",
+      "firstSeen": 1759430828153,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759408450055,
+      "lastUpdated": 1759430828153
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-28-05-726Z_a246a3b2_image_20.webp",
+      "firstSeen": 1759430828157,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759393683401,
+      "lastUpdated": 1759430828157
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-28-05-726Z_a246a3b2_image_20.webp.analysis.txt",
+      "firstSeen": 1759430828161,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759408450060,
+      "lastUpdated": 1759430828161
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-28-09-947Z_decf7b46_image.png.analysis.txt",
+      "firstSeen": 1759430828164,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759408450040,
+      "lastUpdated": 1759430828164
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-28-16-258Z_00bbab4b_RDT_20250930_21425657069438606317978822.jpg.analysis.txt",
+      "firstSeen": 1759430828167,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759408465861,
+      "lastUpdated": 1759430828167
+    },
+    {
+      "path": "back/deleted_images/2025-10-02T08-28-23-113Z_9003247b_IMG_1074.png.analysis.txt",
+      "firstSeen": 1759430828171,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759408465859,
+      "lastUpdated": 1759430828171
+    },
+    {
+      "path": "back/deleted_media/2025-10-02T08-12-00-949Z_abf36e67_download1.mov.analysis.txt",
+      "firstSeen": 1759430828174,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759405076683,
+      "lastUpdated": 1759430828174
+    },
+    {
+      "path": "back/deleted_media/2025-10-02T08-12-06-373Z_f73a7aa9_download.mov.analysis.txt",
+      "firstSeen": 1759430828177,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759405384128,
+      "lastUpdated": 1759430828177
+    },
+    {
+      "path": "back/deleted_media/2025-10-02T08-12-07-101Z_19277856_download.mov.analysis.txt",
+      "firstSeen": 1759430828181,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759405402022,
+      "lastUpdated": 1759430828181
+    },
+    {
+      "path": "back/deleted_media/2025-10-02T08-12-08-665Z_878e55e6_download.mov.analysis.txt",
+      "firstSeen": 1759430828185,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759405425287,
+      "lastUpdated": 1759430828185
+    },
+    {
+      "path": "back/deleted_media/2025-10-02T08-12-22-130Z_3129fff7_download.mov.analysis.txt",
+      "firstSeen": 1759430828189,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759405602395,
+      "lastUpdated": 1759430828189
+    },
+    {
+      "path": "back/deleted_media/2025-10-02T08-12-29-859Z_1ca59686_download.mov.analysis.txt",
+      "firstSeen": 1759430828192,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759405644917,
+      "lastUpdated": 1759430828192
+    },
+    {
+      "path": "back/deleted_media/2025-10-02T08-12-30-677Z_79c6d908_19700121_0242_68dd7d6609648191b488097b309b0598.mov.analysis.txt",
+      "firstSeen": 1759430828196,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759405660868,
+      "lastUpdated": 1759430828196
+    },
+    {
+      "path": "back/deleted_media/2025-10-02T08-12-48-173Z_ef9e83d1_grok-video-5cf86868-c85b-4072-b8fb-cd944c9bfa78.mp4.analysis.txt",
+      "firstSeen": 1759430828198,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759405723352,
+      "lastUpdated": 1759430828198
+    },
+    {
+      "path": "back/deleted_media/2025-10-02T08-13-28-830Z_8a91c273_grok-video-9619d0ea-eef5-41a9-9d7b-44786ac3e1c5.mp4.analysis.txt",
+      "firstSeen": 1759430828202,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759405847813,
+      "lastUpdated": 1759430828202
+    },
+    {
+      "path": "back/deleted_media/2025-10-02T08-13-51-647Z_e943c1e3_brave_4JcprhoJEt.mp4.analysis.txt",
+      "firstSeen": 1759430828204,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759405887348,
+      "lastUpdated": 1759430828204
+    },
+    {
+      "path": "back/deleted_media/2025-10-02T08-16-51-457Z_b9c868b0_Bread.mov.analysis.txt",
+      "firstSeen": 1759430828207,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759406015106,
+      "lastUpdated": 1759430828207
+    },
+    {
+      "path": "back/deleted_media/2025-10-02T08-17-11-213Z_ad35c9c5_RH_cig.mp4.analysis.txt",
+      "firstSeen": 1759430828210,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759406028155,
+      "lastUpdated": 1759430828210
+    },
+    {
+      "path": "back/deleted_media/2025-10-02T08-17-16-879Z_383691d7_immaheadout.mp4.analysis.txt",
+      "firstSeen": 1759430828213,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759406028157,
+      "lastUpdated": 1759430828213
+    },
+    {
+      "path": "back/deleted_media/2025-10-02T08-17-28-274Z_d82c784b_The_reason_white_people.mp4.analysis.txt",
+      "firstSeen": 1759430828216,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759406082295,
+      "lastUpdated": 1759430828216
+    },
+    {
+      "path": "back/deleted_media/2025-10-02T08-19-25-794Z_360c6258_download.mov.analysis.txt",
+      "firstSeen": 1759430828218,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759406128063,
+      "lastUpdated": 1759430828218
+    },
+    {
+      "path": "back/deleted_media/2025-10-02T08-19-27-958Z_d43bb5f1_ScreenRecording_10-01-2025_16-20-42_1.mov.analysis.txt",
+      "firstSeen": 1759430828222,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759406164876,
+      "lastUpdated": 1759430828222
+    },
+    {
+      "path": "back/deleted_media/2025-10-02T08-19-28-670Z_abf36e67_download1.mov.analysis.txt",
+      "firstSeen": 1759430828224,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759406164877,
+      "lastUpdated": 1759430828224
+    },
+    {
+      "path": "back/deleted_media/2025-10-02T08-19-31-452Z_f73a7aa9_download.mov.analysis.txt",
+      "firstSeen": 1759430828227,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759406199876,
+      "lastUpdated": 1759430828227
+    },
+    {
+      "path": "back/deleted_media/2025-10-02T08-19-33-443Z_878e55e6_download.mov.analysis.txt",
+      "firstSeen": 1759430828231,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759406235399,
+      "lastUpdated": 1759430828231
+    },
+    {
+      "path": "back/deleted_media/2025-10-02T08-19-57-952Z_79c6d908_19700121_0242_68dd7d6609648191b488097b309b0598.mov.analysis.txt",
+      "firstSeen": 1759430828234,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759406461402,
+      "lastUpdated": 1759430828234
+    },
+    {
+      "path": "back/deleted_media/2025-10-02T08-20-12-445Z_ef9e83d1_grok-video-5cf86868-c85b-4072-b8fb-cd944c9bfa78.mp4.analysis.txt",
+      "firstSeen": 1759430828238,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759406524156,
+      "lastUpdated": 1759430828238
+    },
+    {
+      "path": "back/deleted_media/2025-10-02T08-20-58-503Z_8a91c273_grok-video-9619d0ea-eef5-41a9-9d7b-44786ac3e1c5.mp4.analysis.txt",
+      "firstSeen": 1759430828241,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759406621556,
+      "lastUpdated": 1759430828241
+    },
+    {
+      "path": "back/deleted_media/2025-10-02T08-21-20-293Z_e943c1e3_brave_4JcprhoJEt.mp4.analysis.txt",
+      "firstSeen": 1759430828244,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759406666494,
+      "lastUpdated": 1759430828244
+    },
+    {
+      "path": "back/deleted_media/2025-10-02T08-22-49-651Z_14e8c63f_download.mov.analysis.txt",
+      "firstSeen": 1759430828248,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759406714666,
+      "lastUpdated": 1759430828248
+    },
+    {
+      "path": "back/deleted_media/2025-10-02T08-22-52-593Z_d43bb5f1_ScreenRecording_10-01-2025_16-20-42_1.mov.analysis.txt",
+      "firstSeen": 1759430828252,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759406753277,
+      "lastUpdated": 1759430828252
+    },
+    {
+      "path": "back/deleted_media/2025-10-02T08-22-56-851Z_f73a7aa9_download.mov.analysis.txt",
+      "firstSeen": 1759430828255,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759406790753,
+      "lastUpdated": 1759430828255
+    },
+    {
+      "path": "back/deleted_media/2025-10-02T08-22-57-479Z_19277856_download.mov.analysis.txt",
+      "firstSeen": 1759430828259,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759406812787,
+      "lastUpdated": 1759430828259
+    },
+    {
+      "path": "back/deleted_media/2025-10-02T08-22-58-759Z_878e55e6_download.mov.analysis.txt",
+      "firstSeen": 1759430828262,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759406832147,
+      "lastUpdated": 1759430828262
+    },
+    {
+      "path": "back/deleted_media/2025-10-02T08-23-14-258Z_c8bbc048_download.mov.analysis.txt",
+      "firstSeen": 1759430828266,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759407005260,
+      "lastUpdated": 1759430828266
+    },
+    {
+      "path": "back/deleted_media/2025-10-02T08-23-24-879Z_79c6d908_19700121_0242_68dd7d6609648191b488097b309b0598.mov.analysis.txt",
+      "firstSeen": 1759430828269,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759407081989,
+      "lastUpdated": 1759430828269
+    },
+    {
+      "path": "back/deleted_media/2025-10-02T08-24-18-646Z_8a91c273_grok-video-9619d0ea-eef5-41a9-9d7b-44786ac3e1c5.mp4.analysis.txt",
+      "firstSeen": 1759430828274,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759407238561,
+      "lastUpdated": 1759430828274
+    },
+    {
+      "path": "back/deleted_media/2025-10-02T08-24-41-373Z_e943c1e3_brave_4JcprhoJEt.mp4.analysis.txt",
+      "firstSeen": 1759430828277,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759407272864,
+      "lastUpdated": 1759430828277
+    },
+    {
+      "path": "back/deleted_media/2025-10-02T08-27-41-773Z_b9c868b0_Bread.mov.analysis.txt",
+      "firstSeen": 1759430828280,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759407392851,
+      "lastUpdated": 1759430828280
+    },
+    {
+      "path": "back/deleted_media/2025-10-02T08-28-04-351Z_ad35c9c5_RH_cig.mp4.analysis.txt",
+      "firstSeen": 1759430828283,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759407405959,
+      "lastUpdated": 1759430828283
+    },
+    {
+      "path": "back/deleted_media/2025-10-02T08-28-06-502Z_383691d7_immaheadout.mp4.analysis.txt",
+      "firstSeen": 1759430828287,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759407405957,
+      "lastUpdated": 1759430828287
+    },
+    {
+      "path": "back/deleted_media/2025-10-02T08-28-10-649Z_d82c784b_The_reason_white_people.mp4.analysis.txt",
+      "firstSeen": 1759430828290,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759407459691,
+      "lastUpdated": 1759430828290
+    },
+    {
+      "path": "back/deleted_media/2025-10-02T08-28-11-279Z_52652531_Bananas.mp4.analysis.txt",
+      "firstSeen": 1759430828294,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759407459693,
+      "lastUpdated": 1759430828294
+    },
+    {
+      "path": "back/deleted_media/2025-10-02T08-28-14-117Z_585a3c4e_Coney_Island_Ski_Club_-_Sidetalk_2-oCNXMsMvg.mp4.analysis.txt",
+      "firstSeen": 1759430828298,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759407485431,
+      "lastUpdated": 1759430828298
+    },
+    {
+      "path": "back/deleted_media/2025-10-02T08-28-50-386Z_dce63fa7_RDT_20250801_194242.mov.analysis.txt",
+      "firstSeen": 1759430828302,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759407576159,
+      "lastUpdated": 1759430828302
+    },
+    {
+      "path": "back/deleted_media/2025-10-02T08-28-56-309Z_21491039_09251.mp4.analysis.txt",
+      "firstSeen": 1759430828305,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759407631941,
+      "lastUpdated": 1759430828305
+    },
+    {
+      "path": "back/deleted_media/2025-10-02T08-28-59-027Z_3c96d7e7_3-i8RaUdheyVutdR.mp4.analysis.txt",
+      "firstSeen": 1759430828308,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759407631945,
+      "lastUpdated": 1759430828308
+    },
+    {
+      "path": "back/deleted_media/2025-10-02T08-29-08-334Z_e40c0a0f_schwepe.mp4.analysis.txt",
+      "firstSeen": 1759430828311,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759407688946,
+      "lastUpdated": 1759430828311
+    },
+    {
+      "path": "back/deleted_media/2025-10-02T08-29-24-398Z_72e77508_ex_girlfriend_issues.mov.analysis.txt",
+      "firstSeen": 1759430828315,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759407715935,
+      "lastUpdated": 1759430828315
+    },
+    {
+      "path": "back/deleted_media/2025-10-02T08-29-29-697Z_dee8f61b_go-1.mov.analysis.txt",
+      "firstSeen": 1759430828318,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759407737524,
+      "lastUpdated": 1759430828318
+    },
+    {
+      "path": "back/deleted_media/2025-10-02T08-30-36-993Z_73fa3195_black_stuff.mp4.analysis.txt",
+      "firstSeen": 1759430828322,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759407773796,
+      "lastUpdated": 1759430828322
+    },
+    {
+      "path": "balanced-image-schwepe-analyzer.js",
+      "firstSeen": 1759430828323,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759430634910,
+      "lastUpdated": 1759430828323
+    },
+    {
+      "path": "balanced-video-schwepe-analyzer.js",
+      "firstSeen": 1759430828324,
+      "lastReported": 1759469808793,
+      "reportedDates": {},
+      "lastModified": 1759469808793,
+      "lastUpdated": 1759470210180
+    },
+    {
+      "path": "channel_dates.json",
+      "firstSeen": 1759430828325,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759393909898,
+      "lastUpdated": 1759430828325
+    },
+    {
+      "path": "config-manager.js",
+      "firstSeen": 1759430828326,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759405987457,
+      "lastUpdated": 1759430828326
+    },
+    {
+      "path": "debug-false-positive-image.js",
+      "firstSeen": 1759430828328,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759404572120,
+      "lastUpdated": 1759430828328
+    },
+    {
+      "path": "debug-timeline-video.js",
+      "firstSeen": 1759430828329,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759403883516,
+      "lastUpdated": 1759430828329
+    },
+    {
+      "path": "debug-video-analyzer.js",
+      "firstSeen": 1759430828331,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759402992937,
+      "lastUpdated": 1759430828331
+    },
+    {
+      "path": "deduplicate.js",
+      "firstSeen": 1759430828332,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759392571754,
+      "lastUpdated": 1759430828332
+    },
+    {
+      "path": "enhanced-video-schwepe-analyzer.js",
+      "firstSeen": 1759430828346,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759401735219,
+      "lastUpdated": 1759430828346
+    },
+    {
+      "path": "glootie/.caveats.txt",
+      "firstSeen": 1759430828348,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759394884615,
+      "lastUpdated": 1759430828348
+    },
+    {
+      "path": "glootie/.glootie-project-structure.json",
+      "firstSeen": 1759430828350,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759470208658,
+      "lastUpdated": 1759470210183
+    },
+    {
+      "path": "glootie/.mcp-init-flag.json",
+      "firstSeen": 1759430828352,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759442432132,
+      "lastUpdated": 1759470210186
+    },
+    {
+      "path": "grok-workflows.js",
+      "firstSeen": 1759430828353,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759405987466,
+      "lastUpdated": 1759430828353
+    },
+    {
+      "path": "image_hashes.json",
+      "firstSeen": 1759430828354,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759416703144,
+      "lastUpdated": 1759470210187
+    },
+    {
+      "path": "improved-video-schwepe-analyzer.js",
+      "firstSeen": 1759430828355,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759403118764,
+      "lastUpdated": 1759430828355
+    },
+    {
+      "path": "index.js",
+      "firstSeen": 1759430828356,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759405987486,
+      "lastUpdated": 1759430828356
+    },
+    {
+      "path": "master_checksums.json",
+      "firstSeen": 1759430828357,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759416703020,
+      "lastUpdated": 1759470210188
+    },
+    {
+      "path": "native-video-schwepe-analyzer.js",
+      "firstSeen": 1759430828358,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759401940467,
+      "lastUpdated": 1759430828358
+    },
+    {
+      "path": "package-lock.json",
+      "firstSeen": 1759430828359,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759409374438,
+      "lastUpdated": 1759430828359
+    },
+    {
+      "path": "package.json",
+      "firstSeen": 1759430828360,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759435324186,
+      "lastUpdated": 1759470210190
+    },
+    {
+      "path": "processed_messages.json",
+      "firstSeen": 1759430828361,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759393909888,
+      "lastUpdated": 1759430828361
+    },
+    {
+      "path": "quick-schwepe-analyzer.js",
+      "firstSeen": 1759430828362,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759398455842,
+      "lastUpdated": 1759430828362
+    },
+    {
+      "path": "schwepe-image-analyzer.js",
+      "firstSeen": 1759430828364,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759395621628,
+      "lastUpdated": 1759430828364
+    },
+    {
+      "path": "schwepe-media-analyzer.js",
+      "firstSeen": 1759430828365,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759398807436,
+      "lastUpdated": 1759430828365
+    },
+    {
+      "path": "ultra-image-schwepe-analyzer.js",
+      "firstSeen": 1759430828366,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759403986628,
+      "lastUpdated": 1759430828366
+    },
+    {
+      "path": "ultra-video-schwepe-analyzer.js",
+      "firstSeen": 1759430828367,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759404006534,
+      "lastUpdated": 1759430828367
+    },
+    {
+      "path": "video-schwepe-analyzer.js",
+      "firstSeen": 1759430828368,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759400145880,
+      "lastUpdated": 1759430828368
+    },
+    {
+      "path": "video_hashes.json",
+      "firstSeen": 1759430828369,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759416703148,
+      "lastUpdated": 1759470210191
+    },
+    {
+      "path": "workflow-engine.js",
+      "firstSeen": 1759430828370,
+      "lastReported": null,
+      "reportedDates": {},
+      "lastModified": 1759405987516,
+      "lastUpdated": 1759430828370
+    }
+  ]
+}
