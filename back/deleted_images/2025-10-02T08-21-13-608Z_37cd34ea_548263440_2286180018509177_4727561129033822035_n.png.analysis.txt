@@ -1,9 +1,0 @@
-Deleted reason:
-
-SCHWEPE_RELATED: NO  
-CONFIDENCE: 8  
-FROGS_OR_AMPHIBIANS: NO  
-SHINY_SHADES: NO  
-SCHWEPE_TEXT: NO  
-MEME_INDICATORS: NO  
-REASONING: The image shows a hand-drawn sketch of a lion with a rose, which does not contain any of the definitive Schwepe characteristics (frogs/amphibians, shiny shades, Schwepe text, AI-generated/3D Schwepe characters, or pink humanoid art) nor any strong Schwepe indicators (meme parodies, crypto/trading themes, meme culture elements). Since there are no elements that align with Schwepe content, it is not Schwepe-related.

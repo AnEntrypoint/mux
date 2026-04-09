@@ -1,9 +1,0 @@
-Deleted reason:
-
-<|begin_of_box|>SCHWEPE_RELATED: NO  
-CONFIDENCE: 8  
-FROGS_OR_AMPHIBIANS: NO  
-SHINY_SHADES: NO  
-SCHWEPE_TEXT: NO  
-MEME_INDICATORS: NO  
-REASONING: The image shows a blockchain transaction ("Transfer 30.92 SOMI to Null: 0x000...000") with no visible Schwepe characteristics (frogs, shiny shades, Schwepe text) or strong indicators (meme parodies, crypto/trading themes as a meme, meme culture). It is a straightforward transaction record, not a meme or content related to Schwepe.<|end_of_box|>

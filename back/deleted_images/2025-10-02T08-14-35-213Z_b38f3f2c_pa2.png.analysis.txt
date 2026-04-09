@@ -1,9 +1,0 @@
-Deleted reason:
-
-<|begin_of_box|>SCHWEPE_RELATED: NO  
-CONFIDENCE: 6  
-FROGS_OR_AMPHIBIANS: NO  
-SHINY_SHADES: NO  
-SCHWEPE_TEXT: NO  
-MEME_INDICATORS: NO  
-REASONING: The image shows a pixel-art character that resembles a fantasy creature (likely an orc/troll) with no frogs/amphibians, shiny shades, or Schwepe-related text. It does not exhibit any strong indicators like meme parodies, crypto themes, or meme culture elements. While the character is stylized, it lacks the specific traits required to classify as Schwepe content.<|end_of_box|>

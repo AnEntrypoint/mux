@@ -1,9 +1,0 @@
-Deleted reason:
-
-<|begin_of_box|>SCHWEPE_RELATED: NO  
-CONFIDENCE: 9  
-FROGS_OR_AMPHIBIANS: NO  
-SHINY_SHADES: NO  
-SCHWEPE_TEXT: NO  
-MEME_INDICATORS: NO  
-REASONING: The image shows a regular person in a live stream setting with no elements matching Schwepe’s definitive characteristics (frogs, shiny shades, Schwepe text) or strong indicators (meme parodies, crypto/trading themes, meme culture). There are no recognizable meme formats, character parodies, or viral content associated with Schwepe. Thus, it is not Schwepe-related.<|end_of_box|>

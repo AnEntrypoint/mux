@@ -1,9 +1,0 @@
-Deleted reason:
-
-SCHWEPE_RELATED: NO  
-CONFIDENCE: 9  
-FROGS_OR_AMPHIBIANS: NO  
-SHINY_SHADES: NO  
-SCHWEPE_TEXT: NO  
-MEME_INDICATORS: NO  
-REASONING: The image depicts a music synthesizer ("Access Virus A") with text related to "patch demos" and "Synthmania." There are no elements matching any Schwepe characteristics (frogs, shiny shades, Schwepe text, AI/3D characters, pink humanoids) or strong indicators (meme parodies, crypto/trading themes, meme culture). It is a technical demonstration of a musical device, not related to Schwepe content.

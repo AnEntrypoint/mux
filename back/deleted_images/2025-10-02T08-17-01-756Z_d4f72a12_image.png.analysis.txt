@@ -1,9 +1,0 @@
-Deleted reason:
-
-SCHWEPE_RELATED: NO  
-CONFIDENCE: 8  
-FROGS_OR_AMPHIBIANS: NO  
-SHINY_SHADES: NO  
-SCHWEPE_TEXT: NO  
-MEME_INDICATORS: NO  
-REASONING: The image displays a Redbubble 404 error page with an astronaut and moon, along with the text "404. Houston, we have a problem." There are no frogs/amphibians, shiny shades, Schwepe-related text, or strong indicators like meme parodies, crypto/trading themes, or meme culture elements. None of the Schwepe detection criteria are met.

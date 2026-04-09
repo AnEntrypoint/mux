@@ -1,9 +1,0 @@
-Deleted reason:
-
-SCHWEPE_RELATED: NO  
-CONFIDENCE: 8  
-FROGS_OR_AMPHIBIANS: NO  
-SHINY_SHADES: NO  
-SCHWEPE_TEXT: NO  
-MEME_INDICATORS: NO  
-REASONING: The image displays a collage of consumer goods (e.g., Ugg boots, Louis Vuitton bag, Starbucks drink, Tampax box) and brand logos. None of the "Definite Schwepe Characteristics" (frogs/amphibians, shiny shades, Schwepe text, AI-generated characters, character art resembling Schwepe) are present. Additionally, there are no "Strong Schwepe Indicators" (meme parodies of recognizable characters, crypto/trading themes, meme culture formats). Since no Schwepe-related elements are detected, the image is not Schwepe-related.

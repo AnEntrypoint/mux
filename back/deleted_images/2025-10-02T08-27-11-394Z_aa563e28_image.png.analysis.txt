@@ -1,9 +1,0 @@
-Deleted reason:
-
-<|begin_of_box|>SCHWEPE_RELATED: NO
-CONFIDENCE: 10
-FROGS_OR_AMPHIBIANS: NO
-SHINY_SHADES: NO
-SCHWEPE_TEXT: NO
-MEME_INDICATORS: NO
-REASONING: The input is a transaction details page with no visual content (images, characters, or meme formats). There are no frogs/amphibians, shiny shades, Schwepe-related text, AI-generated characters, or character art present. While it involves cryptocurrency (SOMI token transfer), there are no meme elements, parodies, or other strong Schwepe indicators (like meme culture or recognizable character parodies) to classify it as Schwepe-related.<|end_of_box|>

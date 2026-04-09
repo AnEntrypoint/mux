@@ -1,9 +1,0 @@
-Deleted reason:
-
-<|begin_of_box|>SCHWEPE_RELATED: NO  
-CONFIDENCE: 8  
-FROGS_OR_AMPHIBIANS: NO  
-SHINY_SHADES: NO  
-SCHWEPE_TEXT: NO  
-MEME_INDICATORS: NO  
-REASONING: The image shows a tattoo of a milk jug with a banana and a banner reading "WAY OF THE ROAD." It contains no frogs/amphibians, shiny shades, Schwepe-related text, or recognizable meme parodies/cryptocurrency themes. None of the definitive or strong Schwepe indicators are present, so it is not Schwepe-related.<|end_of_box|>

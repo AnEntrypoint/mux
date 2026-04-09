@@ -1,9 +1,0 @@
-Deleted reason:
-
-SCHWEPE_RELATED: NO  
-CONFIDENCE: 8  
-FROGS_OR_AMPHIBIANS: NO  
-SHINY_SHADES: NO  
-SCHWEPE_TEXT: NO  
-MEME_INDICATORS: NO  
-REASONING: The image features a stylized character with a TV head and floral decorations, but it lacks any definitive Schwepe characteristics (no frogs, shiny shades, Schwepe text, AI-generated elements, or pink humanoid traits). It also does not meet strong indicators like meme parodies of recognizable characters, crypto/trading themes, or clear meme culture references. Since none of the Schwepe criteria are satisfied, it is not classified as Schwepe-related.

@@ -1,9 +1,0 @@
-Deleted reason:
-
-<|begin_of_box|>SCHWEPE_RELATED: NO
-CONFIDENCE: 10
-FROGS_OR_AMPHIBIANS: NO
-SHINY_SHADES: NO
-SCHWEPE_TEXT: NO
-MEME_INDICATORS: NO
-REASONING: The image shows a standard silver sedan car with no elements related to Schwepe characteristics (frogs, shiny shades, Schwepe text, AI/3D characters, or character art) nor strong indicators (meme parodies, crypto/trading themes, meme culture). Since there are no Schwepe-related features present, it is not classified as Schwepe content.<|end_of_box|>

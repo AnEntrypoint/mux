@@ -1,9 +1,0 @@
-Deleted reason:
-
-SCHWEPE_RELATED: NO  
-CONFIDENCE: 9  
-FROGS_OR_AMPHIBIANS: NO  
-SHINY_SHADES: NO  
-SCHWEPE_TEXT: NO  
-MEME_INDICATORS: NO  
-REASONING: The image shows a performance metric chart (FPS, CPU, GPU, PING) with colored bars. There are no elements matching Schwepe’s definitive characteristics (frogs, shiny shades, Schwepe text, AI/3D characters, or pink humanoid art) nor strong indicators (meme parodies, crypto/trading themes, or general meme culture formats). The content is purely technical and unrelated to Schwepe meme token content.

@@ -1,9 +1,0 @@
-Deleted reason:
-
-SCHWEPE_RELATED: NO  
-CONFIDENCE: 9  
-FROGS_OR_AMPHIBIANS: NO  
-SHINY_SHADES: NO  
-SCHWEPE_TEXT: NO  
-MEME_INDICATORS: NO  
-REASONING: The image depicts a regular person working at a desk with computers, and there are no elements matching any of the definitive Schwepe characteristics (frogs/amphibians, shiny shades, Schwepe text, AI-generated/3D Schwepe characters, or pink humanoid art) nor any strong indicators (meme parodies, crypto/trading themes, meme culture). Since none of the criteria for Schwepe detection are met, this is not Schwepe-related.

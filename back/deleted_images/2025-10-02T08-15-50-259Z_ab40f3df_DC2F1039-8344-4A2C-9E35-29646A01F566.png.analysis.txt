@@ -1,9 +1,0 @@
-Deleted reason:
-
-SCHWEPE_RELATED: NO  
-CONFIDENCE: 9  
-FROGS_OR_AMPHIBIANS: NO  
-SHINY_SHADES: NO  
-SCHWEPE_TEXT: NO  
-MEME_INDICATORS: NO  
-REASONING: The image displays technical code/text about fixing a data wiping issue in what appears to be a terminal or code editor. There are no frogs/amphibians, shiny shades, or Schwepe-related text. Additionally, there are no meme parodies, crypto/trading themes, or meme culture elements present. Since none of the Schwepe characteristics or strong indicators apply, this is not Schwepe-related.

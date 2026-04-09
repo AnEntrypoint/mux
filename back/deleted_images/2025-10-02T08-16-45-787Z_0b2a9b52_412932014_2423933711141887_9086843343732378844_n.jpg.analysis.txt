@@ -1,9 +1,0 @@
-Deleted reason:
-
-<|begin_of_box|>SCHWEPE_RELATED: NO  
-CONFIDENCE: 9  
-FROGS_OR_AMPHIBIANS: NO  
-SHINY_SHADES: NO  
-SCHWEPE_TEXT: NO  
-MEME_INDICATORS: NO  
-REASONING: The image shows a black-and-white photograph of a muscular individual (resembling Arnold Schwarzenegger) with a monkey in a barber-style setup. There are no elements matching Schwepe’s definitive characteristics (frogs, shiny shades, Schwepe text, AI/3D characters, or pink humanoid art) nor strong indicators (meme parodies related to Schwepe, crypto/trading themes, or viral meme formats). The content lacks any connection to Schwepe’s established visual or thematic traits.<|end_of_box|>

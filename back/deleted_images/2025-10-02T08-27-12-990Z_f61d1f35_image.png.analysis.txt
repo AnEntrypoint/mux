@@ -1,9 +1,0 @@
-Deleted reason:
-
-<|begin_of_box|>SCHWEPE_RELATED: NO
-CONFIDENCE: 2
-FROGS_OR_AMPHIBIANS: NO
-SHINY_SHADES: NO
-SCHWEPE_TEXT: NO
-MEME_INDICATORS: NO
-REASONING: This image shows a cryptocurrency trading interface (matcha.xyz) with various tokens like Tether USD, Wrapped SOL, and others. While it contains crypto/trading elements which are strong indicators for Schwepe, there are no visible Schwepe-specific characteristics such as frogs/amphibians, shiny shades, Schwepe text, AI-generated characters, or character art resembling Schwepe. The image appears to be a standard crypto trading platform interface without any of the specific visual elements that would classify it as Schwepe-related content.<|end_of_box|>

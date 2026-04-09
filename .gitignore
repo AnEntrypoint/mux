@@ -132,3 +132,12 @@ Thumbs.db
 # Logs
 logs/
 *.log
+.gm-stop-verified
+.vexify.db
+.codeinsight
+deleted_images/
+input_images/
+schwepim/
+compress-*.bat
+*.corrupted.*
+back/deleted_images/

@@ -1,9 +1,0 @@
-Deleted reason:
-
-SCHWEPE_RELATED: NO  
-CONFIDENCE: 10  
-FROGS_OR_AMPHIBIANS: NO  
-SHINY_SHADES: NO  
-SCHWEPE_TEXT: NO  
-MEME_INDICATORS: NO  
-REASONING: The image depicts an ancient archaeological site (ruins in a mountainous landscape) with no elements related to Schwepe characteristics (frogs, shiny shades, Schwepe text, AI-generated characters, or character art resembling Schwepe). There are also no strong indicators like meme parodies, crypto/trading themes, or meme culture references. Since none of the Schwepe-defining features are present, it is not Schwepe-related.

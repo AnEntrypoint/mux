@@ -1,9 +1,0 @@
-Deleted reason:
-
-<|begin_of_box|>SCHWEPE_RELATED: NO  
-CONFIDENCE: 8  
-FROGS_OR_AMPHIBIANS: NO  
-SHINY_SHADES: NO  
-SCHWEPE_TEXT: NO  
-MEME_INDICATORS: NO  
-REASONING: The image depicts a purple 3D-rendered character without any of the definitive Schwepe characteristics (frogs/amphibians, shiny shades, Schwepe text) or strong indicators (meme parodies, crypto/trading themes, meme culture elements). There are no recognizable meme formats, parodies, or cryptocurrency references present, so it does not qualify as Schwepe-related.<|end_of_box|>

@@ -1,9 +1,0 @@
-Deleted reason:
-
-<|begin_of_box|>SCHWEPE_RELATED: NO  
-CONFIDENCE: 8  
-FROGS_OR_AMPHIBIANS: NO  
-SHINY_SHADES: NO  
-SCHWEPE_TEXT: NO  
-MEME_INDICATORS: NO  
-REASONING: The image shows a hand-drawn cartoon character with a brown face, curly hair, and a "THUG" tattoo. There are no definitive Schwepe characteristics (no frogs/amphibians, shiny shades, Schwepe text, AI/3D rendering, or pink humanoid traits). Additionally, there are no strong Schwepe indicators (no recognizable meme parodies, crypto/trading themes, or viral meme formats). The character does not align with any criteria for Schwepe detection, so it is not Schwepe-related.<|end_of_box|>

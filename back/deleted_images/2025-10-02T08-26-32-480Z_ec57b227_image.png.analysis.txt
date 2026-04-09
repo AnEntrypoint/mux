@@ -1,9 +1,0 @@
-Deleted reason:
-
-<|begin_of_box|>SCHWEPE_RELATED: NO
-CONFIDENCE: 9
-FROGS_OR_AMPHIBIANS: NO
-SHINY_SHADES: NO
-SCHWEPE_TEXT: NO
-MEME_INDICATORS: NO
-REASONING: This image shows a blockchain explorer interface displaying transaction data, block information, and network utilization metrics. There are no elements that match any of the Schwepe detection criteria - no frogs/amphibians, no shiny shades, no Schwepe-related text, no AI-generated Schwepe characters, and no meme parodies or crypto trading themes specifically related to Schwepe. The small thumbnail in one transaction appears to be a generic 3D grid/maze structure, not a Schwepe character. This is purely technical blockchain data display with no meme or Schwepe-specific content.<|end_of_box|>

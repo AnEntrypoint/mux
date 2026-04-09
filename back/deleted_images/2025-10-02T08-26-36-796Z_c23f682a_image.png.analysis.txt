@@ -1,9 +1,0 @@
-Deleted reason:
-
-<|begin_of_box|>SCHWEPE_RELATED: NO
-CONFIDENCE: 10
-FROGS_OR_AMPHIBIANS: NO
-SHINY_SHADES: NO
-SCHWEPE_TEXT: NO
-MEME_INDICATORS: NO
-REASONING: The image shows a GitHub repository page for "beeseezy" with various code files and repository structure. There are no visual elements, text, or content that matches any of the Schwepe characteristics or indicators. This is simply a standard GitHub repository interface without any meme-related content, frog characters, sunglasses, Schwepe text, or other elements associated with the Schwepe meme token.<|end_of_box|>

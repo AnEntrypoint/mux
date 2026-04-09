@@ -1,9 +1,0 @@
-Deleted reason:
-
-<|begin_of_box|>SCHWEPE_RELATED: NO
-CONFIDENCE: 8
-FROGS_OR_AMPHIBIANS: NO
-SHINY_SHADES: NO
-SCHWEPE_TEXT: NO
-MEME_INDICATORS: NO
-REASONING: The image features stylized food characters (a corn cob and a hot dog with anthropomorphic faces) but contains no Schwepe-defining elements such as frogs/amphibians, shiny shades, Schwepe-related text ("schwepe", "247420", etc.), AI-generated/3D-rendered characters, or strong indicators like meme parodies, crypto/trading themes, or viral meme formats. None of the automatic Schwepe criteria or strong indicators apply, so it is not Schwepe-related.<|end_of_box|>

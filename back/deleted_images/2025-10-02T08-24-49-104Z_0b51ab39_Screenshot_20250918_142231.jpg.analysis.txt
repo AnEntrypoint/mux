@@ -1,9 +1,0 @@
-Deleted reason:
-
-<|begin_of_box|>SCHWEPE_RELATED: NO
-CONFIDENCE: 2
-FROGS_OR_AMPHIBIANS: NO
-SHINY_SHADES: NO
-SCHWEPE_TEXT: NO
-MEME_INDICATORS: NO
-REASONING: The image shows a CoinMarketCap chart displaying price trends, with no visible Schwepe characteristics (e.g., frogs, sunglasses, Schwepe-related text) or strong indicators (e.g., meme parodies, meme culture elements). While it relates to crypto trading, it lacks the meme or parody components required for Schwepe classification.<|end_of_box|>

@@ -1,9 +1,0 @@
-Deleted reason:
-
-<|begin_of_box|>SCHWEPE_RELATED: NO  
-CONFIDENCE: 9  
-FROGS_OR_AMPHIBIANS: NO  
-SHINY_SHADES: NO  
-SCHWEPE_TEXT: NO  
-MEME_INDICATORS: NO  
-REASONING: The image shows motor oil bottles with the text "Crunk juice" and an emoji. None of the definitive Schwepe characteristics (frogs, shiny shades, Schwepe text, AI-generated characters, or character art) are present. Additionally, there are no strong Schwepe indicators (meme parodies, crypto/trading themes, or general meme culture tied to Schwepe). The content is unrelated to Schwepe meme token themes.<|end_of_box|>

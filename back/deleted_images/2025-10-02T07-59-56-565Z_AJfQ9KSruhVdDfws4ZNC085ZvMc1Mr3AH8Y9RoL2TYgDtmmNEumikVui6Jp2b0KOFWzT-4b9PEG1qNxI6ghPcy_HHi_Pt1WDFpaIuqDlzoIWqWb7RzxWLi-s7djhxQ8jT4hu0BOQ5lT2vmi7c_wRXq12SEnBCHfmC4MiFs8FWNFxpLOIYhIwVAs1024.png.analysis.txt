@@ -1,9 +1,0 @@
-Deleted reason:
-
-<|begin_of_box|>SCHWEPE_RELATED: NO  
-CONFIDENCE: 3  
-FROGS_OR_AMPHIBIANS: NO  
-SHINY_SHADES: NO  
-SCHWEPE_TEXT: NO  
-MEME_INDICATORS: YES  
-REASONING: The image features a parody of Yoda (a meme format, hence MEME_INDICATORS = YES), but it lacks any of the definitive Schwepe characteristics (no frogs/amphibians, no shiny shades, no Schwepe-related text). While the meme format is a strong indicator, there are no additional strong indicators (crypto theme, chaotic energy) to meet the "multiple needed together" rule for Schwepe classification. Without clear Schwepe-defining elements, it does not qualify as Schwepe-related.<|end_of_box|>

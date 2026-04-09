@@ -1,9 +1,0 @@
-Deleted reason:
-
-<|begin_of_box|>SCHWEPE_RELATED: NO
-CONFIDENCE: 9
-FROGS_OR_AMPHIBIANS: NO
-SHINY_SHADES: NO
-SCHWEPE_TEXT: NO
-MEME_INDICATORS: NO
-REASONING: This image shows a Google search results page for "pixel art" containing various pixel art images including animals, characters, and scenes. None of the images display any of the definite Schwepe characteristics (no frogs/amphibians, no shiny shades, no Schwepe-related text, no AI-generated Schwepe characters, and no character art resembling Schwepe). Additionally, there are no strong Schwepe indicators present - no meme parodies of Schwepe, no crypto/trading themes, and while pixel art can be part of meme culture, none of these specific images appear to be Schwepe-related memes. The content is generic pixel art without any connection to the Schwepe meme token.<|end_of_box|>

@@ -1,9 +1,0 @@
-Deleted reason:
-
-SCHWEPE_RELATED: NO  
-CONFIDENCE: 9  
-FROGS_OR_AMPHIBIANS: NO  
-SHINY_SHADES: NO  
-SCHWEPE_TEXT: NO  
-MEME_INDICATORS: NO  
-REASONING: The image displays a "Premium requests" notification with text about usage percentages and budget updates. There are no elements matching Schwepe’s definitive characteristics (frogs, shiny shades, Schwepe-related text, AI/3D characters, or character art) nor strong indicators (meme parodies, crypto/trading themes, or meme culture). It is a standard UI message unrelated to Schwepe content.

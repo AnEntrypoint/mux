@@ -1,9 +1,0 @@
-Deleted reason:
-
-SCHWEPE_RELATED: NO  
-CONFIDENCE: 8  
-FROGS_OR_AMPHIBIANS: NO  
-SHINY_SHADES: NO  
-SCHWEPE_TEXT: NO  
-MEME_INDICATORS: NO  
-REASONING: The image shows a pixel-art fantasy monster (green, horned, muscular) with no elements matching Schwepe’s definite characteristics (no frogs, shades, Schwepe text, AI/3D characters, or pink humanoids). It also lacks strong indicators like meme parodies, crypto themes, or viral meme formats. Since none of the Schwepe criteria are met, it is not related to Schwepe.

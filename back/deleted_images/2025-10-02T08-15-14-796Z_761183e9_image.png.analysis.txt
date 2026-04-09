@@ -1,9 +1,0 @@
-Deleted reason:
-
-SCHWEPE_RELATED: NO  
-CONFIDENCE: 9  
-FROGS_OR_AMPHIBIANS: NO  
-SHINY_SHADES: NO  
-SCHWEPE_TEXT: NO  
-MEME_INDICATORS: NO  
-REASONING: The image shows a pie chart with the repeated text "HOM HOM HOM". It contains no frogs/amphibians, shiny shades, Schwepe-related text ("schwepe", "247420", etc.), crypto/trading themes, or recognizable meme parodies/formats. None of the definitive or strong Schwepe indicators are present, so it is not Schwepe-related.

@@ -1,9 +1,0 @@
-Deleted reason:
-
-<|begin_of_box|>SCHWEPE_RELATED: NO
-CONFIDENCE: 8
-FROGS_OR_AMPHIBIANS: NO
-SHINY_SHADES: NO
-SCHWEPE_TEXT: NO
-MEME_INDICATORS: NO
-REASONING: The image features a 3D-rendered humanoid character without any of the definitive Schwepe characteristics (no frogs/amphibians, no shiny shades, no Schwepe-related text, no AI-generated Schwepe characters, and the character does not resemble typical Schwepe art). Additionally, there are no strong Schwepe indicators (no crypto/trading themes, no recognizable meme parodies tied to Schwepe, and no clear meme culture elements specific to Schwepe). Since none of the criteria for Schwepe detection are met, the image is not Schwepe-related.<|end_of_box|>

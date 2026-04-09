@@ -1,9 +1,0 @@
-Deleted reason:
-
-<|begin_of_box|>SCHWEPE_RELATED: NO  
-CONFIDENCE: 2  
-FROGS_OR_AMPHIBIANS: NO  
-SHINY_SHADES: NO  
-SCHWEPE_TEXT: NO  
-MEME_INDICATORS: NO  
-REASONING: The image features two individuals with no visible Schwepe-defining elements (no frogs/amphibians, sunglasses, Schwepe-related text, AI/3D characters, or pink humanoids). There are also no strong indicators like meme parodies, crypto/trading themes, or viral meme formats. Since none of the Schwepe criteria are met, this is not Schwepe-related.<|end_of_box|>

@@ -1,9 +1,0 @@
-Deleted reason:
-
-<|begin_of_box|>SCHWEPE_RELATED: NO  
-CONFIDENCE: 9  
-FROGS_OR_AMPHIBIANS: NO  
-SHINY_SHADES: NO  
-SCHWEPE_TEXT: NO  
-MEME_INDICATORS: NO  
-REASONING: The image shows a plain transaction record ("Transfer 30.92 SOMI to Null: 0x000...000") with no Schwepe characteristics (no frogs, shades, Schwepe text, AI/3D characters, or pink humanoids) and no strong indicators (no meme parodies, crypto/meme culture themes, or recognizable meme formats). It is purely a financial transaction log without any Schwepe-related content.<|end_of_box|>

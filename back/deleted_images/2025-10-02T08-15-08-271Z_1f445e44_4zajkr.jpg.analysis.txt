@@ -1,9 +1,0 @@
-Deleted reason:
-
-<|begin_of_box|>SCHWEPE_RELATED: NO  
-CONFIDENCE: 8  
-FROGS_OR_AMPHIBIANS: NO  
-SHINY_SHADES: NO  
-SCHWEPE_TEXT: NO  
-MEME_INDICATORS: NO  
-REASONING: The image shows a regular person with a hand-drawn hairstyle modification, but it lacks any definitive Schwepe characteristics (no frogs/amphibians, sunglasses, Schwepe-related text, AI/3D characters, or character art resembling Schwepe). Additionally, it does not meet strong Schwepe indicators like meme parodies of recognizable characters, crypto/trading themes, or clear meme culture elements. Since there are no Schwepe-specific features or strong indicators, it is not classified as Schwepe-related.<|end_of_box|>

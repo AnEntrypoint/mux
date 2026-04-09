@@ -1,9 +1,0 @@
-Deleted reason:
-
-<|begin_of_box|>SCHWEPE_RELATED: NO
-CONFIDENCE: 8
-FROGS_OR_AMPHIBIANS: NO
-SHINY_SHADES: NO
-SCHWEPE_TEXT: NO
-MEME_INDICATORS: NO
-REASONING: The image shows a Google search results page for "pixel art" containing various pixel art images of different subjects like animals, characters, and landscapes. None of the definite Schwepe characteristics are present - no frogs/amphibians, no shiny shades, and no Schwepe-related text. While there are some recognizable characters in the pixel art (like what appears to be Baby Yoda), these are generic pixel art representations rather than specific Schwepe meme parodies. There are no crypto/trading themes or other strong indicators of Schwepe content. This is simply a collection of general pixel art images without any specific Schwepe-related elements.<|end_of_box|>

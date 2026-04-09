@@ -1,9 +1,0 @@
-Deleted reason:
-
-SCHWEPE_RELATED: NO  
-CONFIDENCE: 8  
-FROGS_OR_AMPHIBIANS: NO  
-SHINY_SHADES: NO  
-SCHWEPE_TEXT: NO  
-MEME_INDICATORS: NO  
-REASONING: The image shows a tattoo of a milk jug with the text "WAY OF THE ROAD". It contains no elements matching any of the definite Schwepe characteristics (frogs, shiny shades, Schwepe text, AI-generated characters, or pink humanoid art) nor any strong indicators (meme parodies, crypto/trading themes, or meme culture formats). Since there are no Schwepe-related features present, it is not classified as Schwepe content.

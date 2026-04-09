@@ -1,9 +1,0 @@
-Deleted reason:
-
-SCHWEPE_RELATED: NO  
-CONFIDENCE: 10  
-FROGS_OR_AMPHIBIANS: NO  
-SHINY_SHADES: NO  
-SCHWEPE_TEXT: NO  
-MEME_INDICATORS: NO  
-REASONING: The image displays a collection of video game icons and titles (e.g., *Metal Gear Solid*, *Black Myth Wukong*, *DOOM*) with no elements matching Schwepe’s definitive characteristics (frogs/amphibians, shiny shades, Schwepe text) or strong indicators (meme parodies, crypto/trading themes, meme culture). It is purely a list of gaming content with no connection to Schwepe meme token criteria.

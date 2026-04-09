@@ -1,9 +1,0 @@
-Deleted reason:
-
-<|begin_of_box|>SCHWEPE_RELATED: NO  
-CONFIDENCE: 9  
-FROGS_OR_AMPHIBIANS: NO  
-SHINY_SHADES: NO  
-SCHWEPE_TEXT: NO  
-MEME_INDICATORS: NO  
-REASONING: The image displays a 404 error page with an astronaut on a pink-hued celestial body and a large moon. It contains no elements matching Schwepe’s definitive characteristics (frogs/amphibians, shiny shades, Schwepe text, AI-generated Schwepe characters, or character art resembling Schwepe). Additionally, there are no strong indicators of Schwepe (meme parodies of Schwepe, crypto/trading themes, or general meme culture tied to Schwepe). The 404 “Houston, we have a problem” is a generic meme format but not specific to Schwepe content. Thus, the image is not Schwepe-related.<|end_of_box|>

@@ -1,9 +1,0 @@
-Deleted reason:
-
-<|begin_of_box|>SCHWEPE_RELATED: NO
-CONFIDENCE: 1
-FROGS_OR_AMPHIBIANS: NO
-SHINY_SHADES: NO
-SCHWEPE_TEXT: NO
-MEME_INDICATORS: NO
-REASONING: The image shows a bar chart with numerical data and color-coded bars, containing no elements that match any Schwepe characteristics (frogs, shiny shades, Schwepe text) or strong indicators (meme parodies, crypto/trading themes, meme culture). There are no visual or textual cues related to Schwepe content.<|end_of_box|>

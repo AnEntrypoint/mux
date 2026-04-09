@@ -1,9 +1,0 @@
-Deleted reason:
-
-SCHWEPE_RELATED: NO  
-CONFIDENCE: 9  
-FROGS_OR_AMPHIBIANS: NO  
-SHINY_SHADES: NO  
-SCHWEPE_TEXT: NO  
-MEME_INDICATORS: NO  
-REASONING: The image depicts an electronic device (likely a synthesizer or audio equipment) with no elements matching Schwepe’s definitive characteristics (frogs, shiny shades, Schwepe text) or strong indicators (meme parodies, crypto/trading, meme culture). There are no visual or textual cues related to Schwepe content.

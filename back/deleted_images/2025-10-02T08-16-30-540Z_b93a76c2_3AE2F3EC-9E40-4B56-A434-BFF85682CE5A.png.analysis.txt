@@ -1,9 +1,0 @@
-Deleted reason:
-
-SCHWEPE_RELATED: NO  
-CONFIDENCE: 2  
-FROGS_OR_AMPHIBIANS: NO  
-SHINY_SHADES: NO  
-SCHWEPE_TEXT: NO  
-MEME_INDICATORS: NO  
-REASONING: The input text ("* Slithering... (esc to interrupt)") contains no elements matching Schwepe’s definitive characteristics (frogs, shiny shades, Schwepe-related text) or strong indicators (meme parodies, crypto/trading themes, meme culture). It appears to be a technical/interactive prompt rather than content related to the Schwepe meme token.

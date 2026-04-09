@@ -1,9 +1,0 @@
-Deleted reason:
-
-<|begin_of_box|>SCHWEPE_RELATED: NO
-CONFIDENCE: 9
-FROGS_OR_AMPHIBIANS: NO
-SHINY_SHADES: NO
-SCHWEPE_TEXT: NO
-MEME_INDICATORS: NO
-REASONING: The image is an email screenshot containing a ransom demand. It lacks any of the definitive Schwepe characteristics (frogs, shiny shades, Schwepe text, AI-generated characters, or character art) and does not include strong indicators like meme parodies, crypto/trading themes, or meme culture elements. There are no visual or textual references to Schwepe or associated meme tropes.<|end_of_box|>

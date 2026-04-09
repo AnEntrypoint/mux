@@ -1,9 +1,0 @@
-Deleted reason:
-
-<|begin_of_box|>SCHWEPE_RELATED: NO
-CONFIDENCE: 8
-FROGS_OR_AMPHIBIANS: NO
-SHINY_SHADES: NO
-SCHWEPE_TEXT: NO
-MEME_INDICATORS: NO
-REASONING: The image contains text about delaying gratification with highlighted phrases, but it lacks any definitive Schwepe characteristics (no frogs, sunglasses, Schwepe-related text, AI/3D characters, or character art) and does not meet strong indicator criteria (no meme parodies of recognizable characters, crypto/trading themes, or prominent meme culture elements beyond basic text formatting). It is a straightforward motivational message without Schwepe-related content.<|end_of_box|>

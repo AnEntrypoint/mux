@@ -1,9 +1,0 @@
-Deleted reason:
-
-SCHWEPE_RELATED: NO  
-CONFIDENCE: 9  
-FROGS_OR_AMPHIBIANS: NO  
-SHINY_SHADES: NO  
-SCHWEPE_TEXT: NO  
-MEME_INDICATORS: NO  
-REASONING: The image shows a regular person in formal attire with no elements matching any Schwepe characteristics (frogs, shiny shades, Schwepe text) or strong indicators (meme parodies, crypto themes, meme culture). There are no visual cues or text related to Schwepe, so it is not Schwepe-related.

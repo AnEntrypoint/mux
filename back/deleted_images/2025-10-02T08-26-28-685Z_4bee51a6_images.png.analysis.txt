@@ -1,9 +1,0 @@
-Deleted reason:
-
-SCHWEPE_RELATED: NO  
-CONFIDENCE: 9  
-FROGS_OR_AMPHIBIANS: NO  
-SHINY_SHADES: NO  
-SCHWEPE_TEXT: NO  
-MEME_INDICATORS: NO  
-REASONING: The image shows a real photograph of Zac Efron in Prada clothing. There are no frogs/amphibians, shiny shades, Schwepe-related text (e.g., "schwepe," "247420"), AI/3D-rendered characters, or character art resembling Schwepe. Additionally, there are no strong indicators like meme parodies, crypto/trading themes, or meme culture elements. Since none of the Schwepe criteria are met, this is not Schwepe-related.

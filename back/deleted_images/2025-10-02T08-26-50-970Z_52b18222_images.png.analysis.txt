@@ -1,9 +1,0 @@
-Deleted reason:
-
-SCHWEPE_RELATED: NO  
-CONFIDENCE: 10  
-FROGS_OR_AMPHIBIANS: NO  
-SHINY_SHADES: NO  
-SCHWEPE_TEXT: NO  
-MEME_INDICATORS: NO  
-REASONING: The image shows a Roland Juno-DS keyboard, which is a musical instrument with no elements matching any Schwepe characteristics (frogs, shiny shades, Schwepe text, AI-generated characters, or character art) or strong indicators (meme parodies, crypto/trading themes, meme culture). There are no connections to Schwepe-related content.

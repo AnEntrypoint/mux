@@ -1,9 +1,0 @@
-Deleted reason:
-
-<|begin_of_box|>SCHWEPE_RELATED: NO  
-CONFIDENCE: 7  
-FROGS_OR_AMPHIBIANS: NO  
-SHINY_SHADES: NO  
-SCHWEPE_TEXT: NO  
-MEME_INDICATORS: NO  
-REASONING: The image features stylized cartoon food characters (a corn cob and hot dog with faces) but lacks any definitive Schwepe characteristics (no frogs, shiny shades, or Schwepe text). It also does not meet strong indicator criteria: there are no recognizable meme parodies of existing characters, no crypto/trading themes, and while the style is cartoonish, it does not clearly align with "meme culture" as defined (viral formats or parodies). Since no Schwepe triggers are present, it is not classified as Schwepe-related.<|end_of_box|>

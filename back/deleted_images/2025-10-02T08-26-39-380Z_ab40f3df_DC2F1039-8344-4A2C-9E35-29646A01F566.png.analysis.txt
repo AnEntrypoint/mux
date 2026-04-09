@@ -1,9 +1,0 @@
-Deleted reason:
-
-<|begin_of_box|>SCHWEPE_RELATED: NO
-CONFIDENCE: 10
-FROGS_OR_AMPHIBIANS: NO
-SHINY_SHADES: NO
-SCHWEPE_TEXT: NO
-MEME_INDICATORS: NO
-REASONING: The image shows technical code/documentation text in what appears to be a terminal or code editor. There are no Schwepe characteristics present - no frogs/amphibians, no shiny shades, no Schwepe-related text, and no meme elements. The content is purely technical programming/development related information without any visual or textual elements that would classify it as Schwepe-related content.<|end_of_box|>

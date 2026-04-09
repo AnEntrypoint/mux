@@ -1,9 +1,0 @@
-Deleted reason:
-
-<|begin_of_box|>SCHWEPE_RELATED: NO  
-CONFIDENCE: 7  
-FROGS_OR_AMPHIBIANS: NO  
-SHINY_SHADES: NO  
-SCHWEPE_TEXT: NO  
-MEME_INDICATORS: NO  
-REASONING: The image shows a t-shirt with a pixelated, abstract design resembling a stylized face (influenced by Picasso-like art). There are no definitive Schwepe characteristics (no frogs, shiny shades, Schwepe text, AI-generated Schwepe characters, or pink humanoids) and no strong indicators (no meme parodies of recognizable characters, crypto/trading themes, or viral meme formats). The design is artistic but lacks any elements tied to Schwepe’s defined traits or meme culture associations.<|end_of_box|>

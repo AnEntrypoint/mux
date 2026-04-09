@@ -1,9 +1,0 @@
-Deleted reason:
-
-SCHWEPE_RELATED: NO  
-CONFIDENCE: 8  
-FROGS_OR_AMPHIBIANS: NO  
-SHINY_SHADES: NO  
-SCHWEPE_TEXT: NO  
-MEME_INDICATORS: NO  
-REASONING: The image features a person in a white suit with "PRADA" text. There are no Schwepe-defining elements (frogs, shiny shades, Schwepe-specific text, AI-generated characters, or pink humanoid art). Additionally, there are no strong indicators like meme parodies, crypto/trading themes, or meme culture references. Since none of the Schwepe criteria are met, it is not Schwepe-related.

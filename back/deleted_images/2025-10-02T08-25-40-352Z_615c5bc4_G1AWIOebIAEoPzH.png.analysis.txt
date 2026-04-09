@@ -1,9 +1,0 @@
-Deleted reason:
-
-<|begin_of_box|>SCHWEPE_RELATED: NO  
-CONFIDENCE: 8  
-FROGS_OR_AMPHIBIANS: NO  
-SHINY_SHADES: NO  
-SCHWEPE_TEXT: NO  
-MEME_INDICATORS: NO  
-REASONING: The image depicts a person in a live stream holding a cup with liquid, with no visible elements matching Schwepe’s definitive characteristics (frogs/amphibians, shiny shades, Schwepe-related text, AI/3D characters, or pink humanoid art). It also lacks strong Schwepe indicators like crypto/trading themes, recognizable meme parodies tied to Schwepe, or viral meme formats associated with the token. The content is a personal action without any connection to Schwepe’s established visual or thematic traits.<|end_of_box|>

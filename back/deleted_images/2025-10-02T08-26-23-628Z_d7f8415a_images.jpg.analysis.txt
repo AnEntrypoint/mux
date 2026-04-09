@@ -1,9 +1,0 @@
-Deleted reason:
-
-SCHWEPE_RELATED: NO  
-CONFIDENCE: 10  
-FROGS_OR_AMPHIBIANS: NO  
-SHINY_SHADES: NO  
-SCHWEPE_TEXT: NO  
-MEME_INDICATORS: NO  
-REASONING: The image shows a bass guitar, which does not contain any of the definitive Schwepe characteristics (frogs/amphibians, shiny shades, Schwepe text, AI-generated Schwepe characters, or character art resembling Schwepe). It also lacks strong Schwepe indicators like meme parodies, crypto/trading themes, or meme culture elements. Since no Schwepe-related features are present, it is not Schwepe-related.

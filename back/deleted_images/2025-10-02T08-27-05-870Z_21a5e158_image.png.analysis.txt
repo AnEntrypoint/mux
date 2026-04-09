@@ -1,9 +1,0 @@
-Deleted reason:
-
-<|begin_of_box|>SCHWEPE_RELATED: NO  
-CONFIDENCE: 9  
-FROGS_OR_AMPHIBIANS: NO  
-SHINY_SHADES: NO  
-SCHWEPE_TEXT: NO  
-MEME_INDICATORS: NO  
-REASONING: The image displays a ChatGPT interface with technical markdown formatting instructions and code-like content. There are no elements matching Schwepe’s definitive characteristics (frogs, shiny shades, Schwepe text, AI-generated Schwepe characters, or character art resembling Schwepe) nor strong indicators (meme parodies, crypto/trading themes, or meme culture). The content is purely technical and unrelated to Schwepe meme tokens.<|end_of_box|>

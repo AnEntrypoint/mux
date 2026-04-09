@@ -1,9 +1,0 @@
-Deleted reason:
-
-<|begin_of_box|>SCHWEPE_RELATED: NO
-CONFIDENCE: 10
-FROGS_OR_AMPHIBIANS: NO
-SHINY_SHADES: NO
-SCHWEPE_TEXT: NO
-MEME_INDICATORS: NO
-REASONING: This image shows an email screenshot with a ransom demand message. It contains no Schwepe characteristics (no frogs/amphibians, no shiny shades, no Schwepe-related text) and doesn't exhibit any strong indicators of being Schwepe-related content (not a meme parody, not crypto/trading themed, not meme culture). The content appears to be a genuine (though suspicious) email rather than meme or parody content.<|end_of_box|>

@@ -1,9 +1,0 @@
-Deleted reason:
-
-SCHWEPE_RELATED: NO
-CONFIDENCE: 10
-FROGS_OR_AMPHIBIANS: NO
-SHINY_SHADES: NO
-SCHWEPE_TEXT: NO
-MEME_INDICATORS: NO
-REASONING: The image displays a green electronic device with a screen showing time (09:50), weather (21°), 5G connectivity, and various app icons. There are no frogs, amphibians, sunglasses, Schwepe-related text, AI-generated characters, or meme elements present. This is simply a product image of an electronic device with no connection to Schwepe meme content.

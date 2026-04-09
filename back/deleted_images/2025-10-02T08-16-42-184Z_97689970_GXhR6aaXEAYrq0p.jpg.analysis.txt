@@ -1,9 +1,0 @@
-Deleted reason:
-
-SCHWEPE_RELATED: NO  
-CONFIDENCE: 8  
-FROGS_OR_AMPHIBIANS: NO  
-SHINY_SHADES: NO  
-SCHWEPE_TEXT: NO  
-MEME_INDICATORS: NO  
-REASONING: The image contains text about "delaying gratification" and personal development, with no elements matching the definite Schwepe characteristics (frogs, shiny shades, Schwepe text) or strong indicators (meme parodies, crypto/trading themes, meme culture formats). It lacks any visual or textual cues associated with Schwepe content.

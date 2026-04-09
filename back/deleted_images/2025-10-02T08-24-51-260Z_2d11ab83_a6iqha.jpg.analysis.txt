@@ -1,9 +1,0 @@
-Deleted reason:
-
-SCHWEPE_RELATED: NO  
-CONFIDENCE: 8  
-FROGS_OR_AMPHIBIANS: NO  
-SHINY_SHADES: NO  
-SCHWEPE_TEXT: NO  
-MEME_INDICATORS: NO  
-REASONING: The image shows an anime-style scene with a crying girl and a robot, but it lacks any of the definitive Schwepe characteristics (no frogs, no shiny shades, no Schwepe text, no AI-generated/3D Schwepe characters, no character art resembling Schwepe). It also doesn’t meet strong indicators (no meme parodies, no crypto/trading themes, no clear meme culture elements). Since none of the criteria for Schwepe detection are satisfied, it is not Schwepe-related.

@@ -1,9 +1,0 @@
-Deleted reason:
-
-<|begin_of_box|>SCHWEPE_RELATED: NO  
-CONFIDENCE: 8  
-FROGS_OR_AMPHIBIANS: NO  
-SHINY_SHADES: NO (the robot’s eyewear does not qualify as “shiny shades” per the definition)  
-SCHWEPE_TEXT: NO  
-MEME_INDICATORS: NO (no recognizable meme parodies, crypto themes, or viral meme formats present)  
-REASONING: The image contains neither definitive Schwepe characteristics (frogs, shiny shades, Schwepe text) nor strong indicators (meme parodies, crypto/trading, meme culture). It shows an anime-style scene with a robot and a distressed girl, lacking any elements associated with the Schwepe meme token.<|end_of_box|>

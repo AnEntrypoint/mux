@@ -1,9 +1,0 @@
-Deleted reason:
-
-SCHWEPE_RELATED: NO  
-CONFIDENCE: 10  
-FROGS_OR_AMPHIBIANS: NO  
-SHINY_SHADES: NO  
-SCHWEPE_TEXT: NO  
-MEME_INDICATORS: NO  
-REASONING: The image depicts a Virus b synthesizer (a musical instrument) with no elements matching any Schwepe characteristic or strong indicator. There are no frogs/amphibians, shiny shades, Schwepe-related text, meme parodies, crypto/trading themes, or general meme culture elements present.

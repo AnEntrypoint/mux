@@ -1,9 +1,0 @@
-Deleted reason:
-
-<|begin_of_box|>SCHWEPE_RELATED: NO  
-CONFIDENCE: 8  
-FROGS_OR_AMPHIBIANS: NO  
-SHINY_SHADES: NO  
-SCHWEPE_TEXT: NO  
-MEME_INDICATORS: NO  
-REASONING: The image shows a pink bird-like character with a neutral/bored expression. It does not contain any frogs/amphibians, shiny shades, or Schwepe-related text. While the character’s style could be associated with animated content, there are no clear indicators of meme parodies, crypto/trading themes, or other strong Schwepe markers. Without meeting any definitive or strong criteria, it is not classified as Schwepe-related.<|end_of_box|>

@@ -1,9 +1,0 @@
-Deleted reason:
-
-SCHWEPE_RELATED: NO  
-CONFIDENCE: 8  
-FROGS_OR_AMPHIBIANS: NO  
-SHINY_SHADES: NO  
-SCHWEPE_TEXT: NO  
-MEME_INDICATORS: NO  
-REASONING: The image shows a pixel art duckling with no elements matching any of the "Definite Schwepe Characteristics" (no frogs, sunglasses, or Schwepe-related text) and no "Strong Schwepe Indicators" (not a meme parody, crypto theme, or viral meme format). Since none of the criteria for Schwepe detection are met, it is not Schwepe-related.

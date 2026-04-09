@@ -1,9 +1,0 @@
-Deleted reason:
-
-SCHWEPE_RELATED: NO  
-CONFIDENCE: 2  
-FROGS_OR_AMPHIBIANS: NO  
-SHINY_SHADES: NO  
-SCHWEPE_TEXT: NO  
-MEME_INDICATORS: NO  
-REASONING: The image depicts a person in business attire (shirt, tie) talking on a phone with no visible Schwepe characteristics (no frogs, sunglasses, Schwepe-related text, AI-generated characters, or pink humanoids). There are also no strong indicators like meme parodies, crypto/trading themes, or meme culture elements present. Thus, it does not meet any criteria for being Schwepe-related.

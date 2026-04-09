@@ -1,9 +1,0 @@
-Deleted reason:
-
-SCHWEPE_RELATED: NO  
-CONFIDENCE: 7  
-FROGS_OR_AMPHIBIANS: NO  
-SHINY_SHADES: NO  
-SCHWEPE_TEXT: NO  
-MEME_INDICATORS: NO  
-REASONING: The image shows a generic 3D-rendered pink humanoid figure with no frogs/amphibians, sunglasses, Schwepe-related text, or clear meme parodies/cryptocurrency themes. None of the definitive or strong Schwepe indicators are present, so it does not qualify as Schwepe-related content.

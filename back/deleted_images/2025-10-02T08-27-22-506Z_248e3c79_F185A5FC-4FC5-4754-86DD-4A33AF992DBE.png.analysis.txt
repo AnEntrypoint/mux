@@ -1,9 +1,0 @@
-Deleted reason:
-
-SCHWEPE_RELATED: NO  
-CONFIDENCE: 9  
-FROGS_OR_AMPHIBIANS: NO  
-SHINY_SHADES: NO  
-SCHWEPE_TEXT: NO  
-MEME_INDICATORS: NO  
-REASONING: The input is a text string ("* Slithering... (esc to interrupt)") with no visual or textual elements matching Schwepe’s definitive characteristics (frogs, shiny shades, Schwepe-related text) or strong indicators (meme parodies, crypto themes, meme culture). It lacks any connection to Schwepe’s core attributes or associated content.

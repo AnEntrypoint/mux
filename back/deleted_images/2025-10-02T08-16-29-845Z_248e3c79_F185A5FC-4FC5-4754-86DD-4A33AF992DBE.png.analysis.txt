@@ -1,9 +1,0 @@
-Deleted reason:
-
-SCHWEPE_RELATED: NO  
-CONFIDENCE: 2  
-FROGS_OR_AMPHIBIANS: NO  
-SHINY_SHADES: NO  
-SCHWEPE_TEXT: NO  
-MEME_INDICATORS: NO  
-REASONING: The input text "* Slithering... (esc to interrupt)" does not contain any definitive Schwepe characteristics (frogs/amphibians, shiny shades, Schwepe text) nor strong indicators (meme parodies, crypto/trading themes, meme culture elements). It appears to be a generic interface sound/interaction prompt without any connection to Schwepe meme content.

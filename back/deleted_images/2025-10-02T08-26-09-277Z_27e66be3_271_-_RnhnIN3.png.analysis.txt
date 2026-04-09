@@ -1,9 +1,0 @@
-Deleted reason:
-
-<|begin_of_box|>SCHWEPE_RELATED: NO  
-CONFIDENCE: 2  
-FROGS_OR_AMPHIBIANS: NO  
-SHINY_SHADES: NO  
-SCHWEPE_TEXT: NO  
-MEME_INDICATORS: NO  
-REASONING: The image is a simple pie chart with pink, blue, and brown segments. It contains no elements matching Schwepe’s definitive characteristics (frogs, shiny shades, Schwepe text, AI/3D characters, or character art) nor strong indicators (meme parodies, crypto/trading themes, or meme culture). There are no recognizable characters, text, or thematic links to Schwepe, so it is not Schwepe-related.<|end_of_box|>

@@ -1,9 +1,0 @@
-Deleted reason:
-
-SCHWEPE_RELATED: NO  
-CONFIDENCE: 2  
-FROGS_OR_AMPHIBIANS: NO  
-SHINY_SHADES: NO  
-SCHWEPE_TEXT: NO  
-MEME_INDICATORS: NO  
-REASONING: The image depicts a regular person without any of the definitive Schwepe characteristics (frogs/amphibians, shiny shades, Schwepe text, AI-generated/3D Schwepe characters, or pink humanoid art) or strong indicators (meme parodies, crypto/trading themes, meme culture elements). There are no visual cues linking this to Schwepe content.

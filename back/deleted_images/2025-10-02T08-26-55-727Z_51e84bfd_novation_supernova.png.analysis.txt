@@ -1,9 +1,0 @@
-Deleted reason:
-
-SCHWEPE_RELATED: NO  
-CONFIDENCE: 10  
-FROGS_OR_AMPHIBIANS: NO  
-SHINY_SHADES: NO  
-SCHWEPE_TEXT: NO  
-MEME_INDICATORS: NO  
-REASONING: The image shows a blue electronic device (likely a synthesizer or audio equipment) with no elements matching Schwepe characteristics (no frogs, shades, Schwepe text, AI characters, or character art). It also lacks strong indicators like meme parodies, crypto themes, or meme culture references. Thus, it is not Schwepe-related.

@@ -1,9 +1,0 @@
-Deleted reason:
-
-<|begin_of_box|>SCHWEPE_RELATED: NO
-CONFIDENCE: 2
-FROGS_OR_AMPHIBIANS: NO
-SHINY_SHADES: NO
-SCHWEPE_TEXT: NO
-MEME_INDICATORS: NO
-REASONING: This image shows a promotional graphic for Somnex/Somnia NFT utilities with information about points multipliers, airdrops, presale access, governance rights, and community perks. While it contains crypto/trading elements (SOMX tokens), it lacks any of the definitive Schwepe characteristics (no frogs, no shiny shades, no Schwepe-related text) and doesn't contain any meme parodies, meme formats, or other strong Schwepe indicators. It's simply an informational crypto/NFT promotional graphic without any specific meme or Schwepe content.<|end_of_box|>

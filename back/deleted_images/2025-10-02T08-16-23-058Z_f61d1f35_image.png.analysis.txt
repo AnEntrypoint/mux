@@ -1,9 +1,0 @@
-Deleted reason:
-
-<|begin_of_box|>SCHWEPE_RELATED: NO
-CONFIDENCE: 8
-FROGS_OR_AMPHIBIANS: NO
-SHINY_SHADES: NO
-SCHWEPE_TEXT: NO
-MEME_INDICATORS: NO
-REASONING: The image shows a cryptocurrency trading interface (Matcha.xyz) with token listings and swap functionality. While it contains crypto/trading elements, there are no definitive Schwepe characteristics present - no frogs/amphibians, no shiny shades, and no Schwepe-related text. The interface appears to be a standard crypto trading platform without any meme parodies or Schwepe-specific content. This is simply a regular cryptocurrency exchange interface showing token information.<|end_of_box|>

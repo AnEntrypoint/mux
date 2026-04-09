@@ -1,9 +1,0 @@
-Deleted reason:
-
-SCHWEPE_RELATED: NO  
-CONFIDENCE: 7  
-FROGS_OR_AMPHIBIANS: NO  
-SHINY_SHADES: NO  
-SCHWEPE_TEXT: NO  
-MEME_INDICATORS: NO  
-REASONING: The image shows a pink humanoid character with no frogs/amphibians, shiny shades, or Schwepe-related text. It also lacks recognizable meme parodies, crypto/trading themes, or other meme culture elements that would classify it as Schwepe-related. None of the definite or strong indicators for Schwepe are present.

@@ -1,9 +1,0 @@
-Deleted reason:
-
-SCHWEPE_RELATED: NO  
-CONFIDENCE: 8  
-FROGS_OR_AMPHIBIANS: NO  
-SHINY_SHADES: NO  
-SCHWEPE_TEXT: NO  
-MEME_INDICATORS: NO  
-REASONING: The image contains only numerical values with no elements matching Schwepe’s definitive characteristics (frogs, shiny shades, Schwepe text, AI/3D characters, or character art) or strong indicators (meme parodies, crypto/trading themes, meme culture). Since there are no Schwepe-related features present, it is not classified as Schwepe content.

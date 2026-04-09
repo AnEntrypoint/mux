@@ -1,9 +1,0 @@
-Deleted reason:
-
-SCHWEPE_RELATED: NO  
-CONFIDENCE: 10  
-FROGS_OR_AMPHIBIANS: NO  
-SHINY_SHADES: NO  
-SCHWEPE_TEXT: NO  
-MEME_INDICATORS: NO  
-REASONING: The image depicts a music production setup (keyboard synthesizer, computer, speakers) with no elements matching any Schwepe characteristic (frogs/amphibians, shiny shades, Schwepe text) or strong indicator (meme parodies, crypto/trading, meme culture). There are no visual or textual cues associated with Schwepe content.
