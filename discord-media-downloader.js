@@ -246,11 +246,28 @@ class DiscordMediaDownloaderEnhanced {
     }
 
     async startDownload() {
-        const channelIds = Object.keys(this.channelDates.dates);
+        let channelIds = Object.keys(this.channelDates.dates);
 
         if (channelIds.length === 0) {
-            console.log('⚠️  No channels configured. Please add channel IDs to channel_dates.json');
-            process.exit(0);
+            const guildId = process.env.GUILD_ID;
+            if (!guildId) {
+                console.log('⚠️  No channels configured and no GUILD_ID in .env');
+                process.exit(1);
+            }
+            const guild = this.client.guilds.cache.get(guildId);
+            if (!guild) {
+                console.log(`⚠️  Guild ${guildId} not found`);
+                process.exit(1);
+            }
+            const channels = await guild.channels.fetch();
+            for (const [id, ch] of channels) {
+                if (ch && ch.isTextBased() && !ch.isThread()) {
+                    this.channelDates.dates[id] = null;
+                }
+            }
+            await this.saveTrackingFiles();
+            channelIds = Object.keys(this.channelDates.dates);
+            console.log(`📡 Auto-discovered ${channelIds.length} text channels from guild "${guild.name}"`);
         }
 
         console.log(`\n🔄 Processing ${channelIds.length} channels with enhanced error handling...\n`);
@@ -293,10 +310,14 @@ class DiscordMediaDownloaderEnhanced {
             let beforeId = null;
             const stopAtMessageId = this.channelDates.dates[channelId];
             console.log(`   Starting from most recent messages and working backwards`);
+
+            // Convert the stopping snowflake to timestamp for proper date comparison
+            let stopAtTimestamp = null;
             if (stopAtMessageId && stopAtMessageId !== "1759615200000") {
-                console.log(`   Will stop at previously processed message: ${stopAtMessageId}`);
+                stopAtTimestamp = this.snowflakeToTimestamp(stopAtMessageId);
+                console.log(`   Will stop at messages older than: ${new Date(stopAtTimestamp).toISOString()}`);
             } else {
-                console.log(`   Will process until 20-day cutoff (00:00 AM today)`);
+                console.log(`   Will process until 60-day cutoff`);
             }
 
             let messageCount = 0;
@@ -318,17 +339,16 @@ class DiscordMediaDownloaderEnhanced {
             while (messages.size > 0) {
                 const oldestMessage = messages.last();
 
-                // Stop if we've reached our target message
-                if (stopAtMessageId && oldestMessage.id === stopAtMessageId) {
-                    console.log(`   🎯 Reached previously processed message ${stopAtMessageId} - stopping for this channel`);
+                // Stop if the oldest message is older than our cutoff date
+                if (stopAtTimestamp && oldestMessage.createdTimestamp < stopAtTimestamp) {
+                    console.log(`   🎯 Reached messages older than cutoff (${new Date(oldestMessage.createdTimestamp).toISOString()}) - stopping for this channel`);
                     break;
                 }
 
                 for (const message of messages.values()) {
-                    // Skip if we've reached our stop point
-                    if (stopAtMessageId && message.id === stopAtMessageId) {
-                        console.log(`   🎯 Reached stopping point - breaking out of message processing`);
-                        break;
+                    // Skip if this message is older than our cutoff
+                    if (stopAtTimestamp && message.createdTimestamp < stopAtTimestamp) {
+                        continue;
                     }
 
                     if (this.processedMessages.has(message.id)) {
@@ -521,10 +541,10 @@ class DiscordMediaDownloaderEnhanced {
             console.log(`🕐 Using hours override: ${this.hoursOverride} hours back from now`);
             console.log(`📅 Override cutoff date: ${cutoffDate.toISOString()}`);
         } else {
-            // Default behavior: 20 days back
-            cutoffDate.setDate(cutoffDate.getDate() - 20);
+            // Default behavior: 60 days back
+            cutoffDate.setDate(cutoffDate.getDate() - 60);
             cutoffDate.setHours(0, 0, 0, 0); // Set to start of day
-            console.log(`📅 Using default 20-day cutoff`);
+            console.log(`📅 Using default 60-day cutoff`);
         }
 
         return cutoffDate.getTime();
@@ -534,14 +554,20 @@ class DiscordMediaDownloaderEnhanced {
         // Discord's epoch: January 1, 2015
         const discordEpoch = 1420070400000;
 
-        // Ensure timestamp is valid and in the future
+        // Ensure timestamp is valid and after Discord epoch
         if (timestamp < discordEpoch) {
             console.log(`⚠️  Timestamp ${timestamp} is before Discord epoch, using current time instead`);
             timestamp = Date.now();
         }
 
-        const snowflake = ((timestamp - discordEpoch) << 22).toString();
-        return snowflake;
+        const snowflake = BigInt(timestamp - discordEpoch) << 22n;
+        return snowflake.toString();
+    }
+
+    snowflakeToTimestamp(snowflake) {
+        // Discord's epoch: January 1, 2015
+        const discordEpoch = 1420070400000;
+        return Number((BigInt(snowflake) >> 22n) + BigInt(discordEpoch));
     }
 
     printStats() {
@@ -573,7 +599,7 @@ if (hoursOverride !== null && !isNaN(hoursOverride)) {
     console.error(`❌ Invalid hours value: "${process.argv[2]}". Please provide a valid number.`);
     process.exit(1);
 } else {
-    console.log(`🕒 STARTING WITH DEFAULT 20-DAY CUTOFF`);
+    console.log(`🕒 STARTING WITH DEFAULT 60-DAY CUTOFF`);
     console.log(`💡 Use: npm run download -- <hours> to override with custom hours back (e.g., npm run download -- 24)`);
 }
 
