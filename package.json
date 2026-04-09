@@ -13,13 +13,7 @@
     "analyze:images": "node balanced-image-schwepe-analyzer.js",
     "analyze:videos": "node balanced-video-schwepe-analyzer.js",
     "analyze:all": "node balanced-image-schwepe-analyzer.js & node balanced-video-schwepe-analyzer.js",
-    "test:false-positives": "node test-false-positives.js",
-    "schedule:start": "node video-scheduler.js start",
-    "schedule:info": "node video-scheduler.js info",
-    "schedule:regenerate": "node video-scheduler.js regenerate",
-    "schedule:test-static": "node video-scheduler.js test-static",
-    "schedule:test-timezone": "node video-scheduler.js test-timezone",
-    "schedule:build": "BUILD_ENV=true node video-scheduler.js regenerate"
+    "test:false-positives": "node test-false-positives.js"
   },
   "keywords": [
     "ai",
