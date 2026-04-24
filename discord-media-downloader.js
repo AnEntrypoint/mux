@@ -224,21 +224,8 @@ class DiscordMediaDownloaderEnhanced {
     async saveTrackingFiles() {
         try {
             await fs.writeJson(this.channelDatesFile, this.channelDates, { spaces: 2 });
-
-            // Save processed messages in batches to handle large sets
             const messages = Array.from(this.processedMessages);
-            const batchSize = 10000;
-            for (let i = 0; i < messages.length; i += batchSize) {
-                const batch = messages.slice(i, i + batchSize);
-                if (i === 0) {
-                    await fs.writeJson(this.processedMessagesFile, { messages: batch }, { spaces: 2 });
-                } else {
-                    // Append to existing file for large sets
-                    const existing = await fs.readJson(this.processedMessagesFile);
-                    existing.messages.push(...batch);
-                    await fs.writeJson(this.processedMessagesFile, existing, { spaces: 2 });
-                }
-            }
+            await fs.writeJson(this.processedMessagesFile, { messages }, { spaces: 2 });
         } catch (error) {
             console.error('❌ Error saving tracking files:', error.message);
             this.stats.errors++;
