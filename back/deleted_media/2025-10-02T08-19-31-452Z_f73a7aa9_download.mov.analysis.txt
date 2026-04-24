@@ -1,9 +1,0 @@
-Deleted reason:
-
-<|begin_of_box|>SCHWEPE_RELATED: NO  
-CONFIDENCE: 1  
-FROGS_OR_AMPHIBIANS: NO  
-SHINY_SHADES: NO  
-SCHWEPE_TEXT: NO  
-MEME_INDICATORS: NO  
-REASONING: The video does not contain any of the definitive Schwepe characteristics (frogs/amphibians, shiny shades, Schwepe text) nor any strong indicators (meme parodies, crypto/trading themes, meme culture). The content shows a transformation into a seahorse, which does not align with Schwepe-related criteria.<|end_of_box|>

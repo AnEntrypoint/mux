@@ -1,9 +1,0 @@
-Deleted reason:
-
-<|begin_of_box|>SCHWEPE_RELATED: NO  
-CONFIDENCE: 7  
-FROGS_OR_AMPHIBIANS: NO  
-SHINY_SHADES: NO  
-SCHWEPE_TEXT: NO  
-MEME_INDICATORS: NO  
-REASONING: The character’s costume does not clearly resemble a frog/amphibian (definite Schwepe trait), there are no shiny shades or Schwepe-related text. While the scene involves skateboarding (a common meme activity), the costume itself is not a recognizable meme parody or reference to established Schwepe characteristics. Without explicit alignment to any Schwepe criteria, it is not classified as Schwepe-related.<|end_of_box|>

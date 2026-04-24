@@ -1,9 +1,0 @@
-Deleted reason:
-
-<|begin_of_box|>SCHWEPE_RELATED: NO  
-CONFIDENCE: 2  
-FROGS_OR_AMPHIBIANS: NO  
-SHINY_SHADES: NO  
-SCHWEPE_TEXT: NO  
-MEME_INDICATORS: NO  
-REASONING: The video shows a person reacting to an AI-generated image (a winged goldfish over a city) via the Sora app. There are no definitive Schwepe characteristics (frogs, shiny shades, Schwepe text) and no strong indicators (meme parodies of Schwepe characters, crypto/trading themes, or clear meme culture references tied to Schwepe). The content focuses on AI image generation, not Schwepe-related meme elements.<|end_of_box|>

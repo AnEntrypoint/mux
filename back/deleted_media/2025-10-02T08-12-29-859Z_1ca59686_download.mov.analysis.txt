@@ -1,9 +1,0 @@
-Deleted reason:
-
-<|begin_of_box|>SCHWEPE_RELATED: NO  
-CONFIDENCE: 3  
-FROGS_OR_AMPHIBIANS: NO  
-SHINY_SHADES: NO  
-SCHWEPE_TEXT: NO  
-MEME_INDICATORS: NO  
-REASONING: The video features a recognizable character (Arthur from *Arthur*) in a dancing pose, but there are no definitive Schwepe characteristics (no frogs/amphibians, shiny shades, or Schwepe-related text). While the dancing could be associated with meme culture, it does not meet the criteria for a strong indicator (e.g., explicit meme parody, crypto/trading themes). Without clear alignment to Schwepe’s defined traits or strong indicators, the content is not classified as

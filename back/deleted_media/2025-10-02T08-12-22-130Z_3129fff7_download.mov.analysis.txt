@@ -1,9 +1,0 @@
-Deleted reason:
-
-<|begin_of_box|>SCHWEPE_RELATED: NO  
-CONFIDENCE: 7  
-FROGS_OR_AMPHIBIANS: NO  
-SHINY_SHADES: NO  
-SCHWEPE_TEXT: NO  
-MEME_INDICATORS: NO  
-REASONING: The character in the video is a mascot performing a skateboarding trick, but it does not exhibit any definitive Schwepe characteristics (no frogs/amphibians, shiny shades, or Schwepe text) nor strong indicators (no clear meme parodies, crypto/trading themes, or recognized meme culture elements). While the costume could be a parody, it is not identifiable as a widely recognized meme or character, so it does not meet the criteria for Schwepe classification.<|end_of_box|>

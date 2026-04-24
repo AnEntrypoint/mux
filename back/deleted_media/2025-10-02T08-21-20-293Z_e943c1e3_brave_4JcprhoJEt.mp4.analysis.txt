@@ -1,9 +1,0 @@
-Deleted reason:
-
-SCHWEPE_RELATED: NO
-CONFIDENCE: 3
-FROGS_OR_AMPHIBIANS: NO
-SHINY_SHADES: NO
-SCHWEPE_TEXT: NO
-MEME_INDICATORS: NO
-REASONING: The provided video frames show abstract, colorful, and distorted patterns without any clear depiction of frogs/amphibians, shiny shades, or Schwepe-related text. While the visual style has some similarities to certain meme aesthetics (like glitch art), it lacks any recognizable meme characters, parodies, or explicit references to crypto/trading themes. Therefore, it does not meet the criteria for being classified as Schwepe-related content.

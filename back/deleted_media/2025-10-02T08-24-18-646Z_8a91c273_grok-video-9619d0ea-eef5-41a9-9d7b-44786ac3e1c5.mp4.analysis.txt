@@ -1,9 +1,0 @@
-Deleted reason:
-
-<|begin_of_box|>SCHWEPE_RELATED: NO  
-CONFIDENCE: 6  
-FROGS_OR_AMPHIBIANS: NO  
-SHINY_SHADES: NO  
-SCHWEPE_TEXT: NO  
-MEME_INDICATORS: NO  
-REASONING: The image features a stylized cartoon figure in an old, dilapidated room, but there are no definitive Schwepe characteristics (no frogs, sunglasses, or Schwepe-related text) and no strong indicators (no recognizable meme parodies, crypto/trading themes, or explicit meme culture elements). While the character has a simplified, meme-like art style, it does not qualify as a meme parody or fit other strong Schwepe criteria, so it is not classified as Schwepe-related.<|end_of_box|>

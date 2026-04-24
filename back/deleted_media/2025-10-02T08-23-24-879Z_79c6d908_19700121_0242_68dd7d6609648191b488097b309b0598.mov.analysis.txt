@@ -1,9 +1,0 @@
-Deleted reason:
-
-<|begin_of_box|>SCHWEPE_RELATED: NO  
-CONFIDENCE: 9  
-FROGS_OR_AMPHIBIANS: NO  
-SHINY_SHADES: NO  
-SCHWEPE_TEXT: NO  
-MEME_INDICATORS: NO  
-REASONING: None of the images contain any definitive Schwepe characteristics (frogs/amphibians, shiny shades, Schwepe text) or strong indicators (meme parodies, crypto/trading themes, meme culture). The content consists of promotional clips for fictional TV shows with sci-fi/fantasy themes, lacking any elements associated with the Schwepe meme token.<|end_of_box|>

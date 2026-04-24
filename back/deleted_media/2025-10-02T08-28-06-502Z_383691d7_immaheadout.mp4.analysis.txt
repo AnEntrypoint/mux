@@ -1,9 +1,0 @@
-Deleted reason:
-
-SCHWEPE_RELATED: NO  
-CONFIDENCE: 8  
-FROGS_OR_AMPHIBIANS: NO  
-SHINY_SHADES: NO  
-SCHWEPE_TEXT: NO  
-MEME_INDICATORS: NO  
-REASONING: The image depicts a generic doctor in a medical setting with no elements matching any Schwepe characteristics (frogs/amphibians, shiny shades, Schwepe text) or strong indicators (meme parodies, crypto/trading, meme culture). There are no recognizable meme formats, parodies, or relevant themes present.

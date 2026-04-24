@@ -1,9 +1,0 @@
-Deleted reason:
-
-<|begin_of_box|>SCHWEPE_RELATED: NO  
-CONFIDENCE: 3  
-FROGS_OR_AMPHIBIANS: NO  
-SHINY_SHADES: NO  
-SCHWEPE_TEXT: NO  
-MEME_INDICATORS: NO  
-REASONING: The image does not contain any of the definitive Schwepe characteristics (frogs/amphibians, shiny shades, Schwepe text). There are also no strong indicators like meme parodies, crypto/trading themes, or explicit meme culture references. The image appears to be a still from a non-meme context (likely a movie or TV show), so it does not meet the criteria for being Schwepe-related.<|end_of_box|>

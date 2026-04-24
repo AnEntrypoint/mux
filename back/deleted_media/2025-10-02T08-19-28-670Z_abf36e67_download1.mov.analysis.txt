@@ -1,9 +1,0 @@
-Deleted reason:
-
-<|begin_of_box|>SCHWEPE_RELATED: NO  
-CONFIDENCE: 8  
-FROGS_OR_AMPHIBIANS: NO  
-SHINY_SHADES: NO  
-SCHWEPE_TEXT: NO  
-MEME_INDICATORS: NO  
-REASONING: The video shows a street interview with two individuals. There are no frogs/amphibians, shiny shades, or Schwepe-related text ("schwepe," "247420," etc.). While the setting involves a "CRYPTOBUZZ" microphone (crypto theme), this alone does not meet the "strong indicator" threshold for Schwepe, as the content lacks explicit meme parodies, character parodies, or other definitive Schwepe markers. The individuals and interaction appear generic without meme-specific elements, so it does not qualify as Schwepe-related.<|end_of_box|>

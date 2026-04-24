@@ -1,9 +1,0 @@
-Deleted reason:
-
-SCHWEPE_RELATED: NO  
-CONFIDENCE: 8  
-FROGS_OR_AMPHIBIANS: NO  
-SHINY_SHADES: NO  
-SCHWEPE_TEXT: NO  
-MEME_INDICATORS: NO  
-REASONING: The video does not contain any of the definitive Schwepe characteristics (frogs/amphibians, shiny shades, Schwepe text) nor any strong indicators (meme parodies, crypto/trading themes, meme culture). It simply shows a floppy disk and a photograph of a person, which lack any connection to Schwepe-related content.

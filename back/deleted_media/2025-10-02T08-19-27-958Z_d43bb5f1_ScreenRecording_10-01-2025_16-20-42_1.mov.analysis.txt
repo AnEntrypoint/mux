@@ -1,9 +1,0 @@
-Deleted reason:
-
-<|begin_of_box|>SCHWEPE_RELATED: NO  
-CONFIDENCE: 2  
-FROGS_OR_AMPHIBIANS: NO  
-SHINY_SHADES: NO  
-SCHWEPE_TEXT: NO  
-MEME_INDICATORS: NO  
-REASONING: The video shows a person without any of the definite Schwepe characteristics (no frogs/amphibians, no shiny shades, no Schwepe-related text). There are also no strong indicators like meme parodies, crypto/trading themes, or other meme culture elements. The content is a simple video of someone speaking, with no clear connection to Schwepe-related content.<|end_of_box|>

@@ -1,9 +1,0 @@
-Deleted reason:
-
-<|begin_of_box|>SCHWEPE_RELATED: NO  
-CONFIDENCE: 7  
-FROGS_OR_AMPHIBIANS: NO  
-SHINY_SHADES: NO  
-SCHWEPE_TEXT: NO  
-MEME_INDICATORS: NO  
-REASONING: The image depicts a person in a military-style uniform speaking into a vintage microphone, with no visible frogs/amphibians, shiny shades, Schwepe-related text, or clear meme parodies (e.g., recognizable meme formats or widely known character parodies tied to Schwepe). While the scene could be interpreted as a stylized or AI-generated depiction, it lacks the specific Schwepe characteristics or strong indicators required for classification.<|end_of_box|>

@@ -1,9 +1,0 @@
-Deleted reason:
-
-<|begin_of_box|>SCHWEPE_RELATED: NO  
-CONFIDENCE: 3  
-FROGS_OR_AMPHIBIANS: NO  
-SHINY_SHADES: NO  
-SCHWEPE_TEXT: NO  
-MEME_INDICATORS: NO  
-REASONING: The video does not contain any of the definitive Schwepe characteristics (frogs/amphibians, shiny shades, Schwepe-related text). Additionally, there are no strong indicators such as meme parodies, crypto/trading themes, or explicit meme culture references visible. While the individual’s gestures and expressions could potentially relate to meme formats, there is insufficient evidence to classify this as Schwepe-related content under the provided guidelines.<|end_of_box|>

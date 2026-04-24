@@ -79,6 +79,19 @@ typings/
 # TernJS port file
 .tern-port
 
+# Media directories - large binary content
+saved_images/
+saved_videos/
+input_images/
+input_videos/
+deleted_images/
+deleted_media/
+back/
+savedvid/
+schwepim/
+randoms/
+backup/
+
 # Project specific
 # Playwright browsers and traces
 .playwright-mcp/
@@ -141,3 +154,8 @@ schwepim/
 compress-*.bat
 *.corrupted.*
 back/deleted_images/
+.plugkit-browser-profile/
+.plugkit-browser-profile-*/
+.plugkit-agent-worktree/
+.code-search/
+*.stackdump

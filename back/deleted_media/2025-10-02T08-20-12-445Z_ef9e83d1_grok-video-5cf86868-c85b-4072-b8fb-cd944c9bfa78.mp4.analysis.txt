@@ -1,9 +1,0 @@
-Deleted reason:
-
-<|begin_of_box|>SCHWEPE_RELATED: NO  
-CONFIDENCE: 2  
-FROGS_OR_AMPHIBIANS: NO  
-SHINY_SHADES: NO  
-SCHWEPE_TEXT: NO  
-MEME_INDICATORS: NO  
-REASONING: The image shows a stylized animated character dancing, but there are no definitive Schwepe characteristics (no frogs, shiny shades, or Schwepe-related text) and no strong indicators (no recognizable meme parodies, crypto/trading themes, or explicit meme culture references). It appears to be a generic animated character without clear ties to Schwepe meme content.<|end_of_box|>

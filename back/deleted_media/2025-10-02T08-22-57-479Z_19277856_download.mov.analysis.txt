@@ -1,9 +1,0 @@
-Deleted reason:
-
-<|begin_of_box|>SCHWEPE_RELATED: NO  
-CONFIDENCE: 2  
-FROGS_OR_AMPHIBIANS: NO  
-SHINY_SHADES: NO  
-SCHWEPE_TEXT: NO  
-MEME_INDICATORS: NO  
-REASONING: The video depicts a person undergoing a transformation into a creature, but it lacks any definitive Schwepe characteristics (e.g., frogs/amphibians, shiny shades, Schwepe text) and does not exhibit strong indicators like meme parodies, crypto/trading themes, or other meme culture elements. There is no clear connection to Schwepe meme token content.<|end_of_box|>

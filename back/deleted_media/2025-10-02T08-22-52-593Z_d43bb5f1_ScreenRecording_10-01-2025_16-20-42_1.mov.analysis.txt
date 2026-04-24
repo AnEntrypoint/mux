@@ -1,9 +1,0 @@
-Deleted reason:
-
-<|begin_of_box|>SCHWEPE_RELATED: NO  
-CONFIDENCE: 6  
-FROGS_OR_AMPHIBIANS: NO  
-SHINY_SHADES: NO  
-SCHWEPE_TEXT: NO  
-MEME_INDICATORS: NO  
-REASONING: The video features a generic person with no definitive Schwepe characteristics (no frogs, shades, or Schwepe-related text). While the caption includes a phrase ("buy pee dye baby!"), there is no clear evidence of a meme parody, crypto/trading themes, or other strong Schwepe indicators. Without any of the required elements, it does not qualify as Schwepe-related.<|end_of_box|>

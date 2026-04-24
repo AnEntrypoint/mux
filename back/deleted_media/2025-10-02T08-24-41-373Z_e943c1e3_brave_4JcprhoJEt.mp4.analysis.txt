@@ -1,9 +1,0 @@
-Deleted reason:
-
-SCHWEPE_RELATED: NO  
-CONFIDENCE: 2  
-FROGS_OR_AMPHIBIANS: NO  
-SHINY_SHADES: NO  
-SCHWEPE_TEXT: NO  
-MEME_INDICATORS: NO  
-REASONING: The provided video frames consist of abstract, distorted, and colorful visual patterns without any identifiable elements matching Schwepe’s definitive characteristics (frogs/amphibians, shiny shades, Schwepe text) or strong indicators (meme parodies, crypto/trading themes, meme culture references). There are no recognizable characters, text, or thematic elements associated with Schwepe.

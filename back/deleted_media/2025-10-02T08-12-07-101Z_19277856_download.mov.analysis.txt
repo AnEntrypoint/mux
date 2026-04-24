@@ -1,9 +1,0 @@
-Deleted reason:
-
-<|begin_of_box|>SCHWEPE_RELATED: NO  
-CONFIDENCE: 2  
-FROGS_OR_AMPHIBIANS: NO  
-SHINY_SHADES: NO  
-SCHWEPE_TEXT: NO  
-MEME_INDICATORS: NO  
-REASONING: The video depicts a horror-themed transformation with no visible elements matching Schwepe’s definitive characteristics (frogs, shiny shades, Schwepe text) or strong indicators (meme parodies, crypto/trading, meme culture). There are no recognizable meme formats, characters, or themes associated with Schwepe, so it does not qualify as Schwepe-related content.<|end_of_box|>

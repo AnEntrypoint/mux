@@ -1,9 +1,0 @@
-Deleted reason:
-
-SCHWEPE_RELATED: NO
-CONFIDENCE: 10
-FROGS_OR_AMPHIBIANS: NO
-SHINY_SHADES: NO
-SCHWEPE_TEXT: NO
-MEME_INDICATORS: NO
-REASONING: The video shows an old computer booting up and displaying its BIOS information. It contains no frogs, sunglasses, or text related to Schwepe. It also lacks any meme parodies, crypto/trading themes, or other elements of meme culture. Therefore, it is not related to Schwepe.

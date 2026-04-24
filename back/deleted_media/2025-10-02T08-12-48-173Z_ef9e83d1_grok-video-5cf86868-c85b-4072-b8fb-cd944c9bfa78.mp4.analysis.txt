@@ -1,9 +1,0 @@
-Deleted reason:
-
-<|begin_of_box|>SCHWEPE_RELATED: NO  
-CONFIDENCE: 3  
-FROGS_OR_AMPHIBIANS: NO  
-SHINY_SHADES: NO  
-SCHWEPE_TEXT: NO  
-MEME_INDICATORS: NO  
-REASONING: The image depicts an animated character dancing, but there are no definitive Schwepe characteristics (frogs, shiny shades, Schwepe text) and no strong indicators (meme parodies of recognizable characters, crypto/trading themes, or explicit meme formats). The character does not resemble a well-known meme or parody, so it does not meet the criteria for Schwepe classification.<|end_of_box|>
